@@ -1,0 +1,320 @@
+
+<GolfDataFeed Type="Pairings" Timestamp="3/21/2012 9:18:51 PM">
+    <Tournament ID="27828" Name="WEGMANS LPGA CHAMPIONSHIP">
+        <Round ID="4">
+        
+            <Group ID="1" CourseCode="LO" Start="09:04 AM" StartHour="9" StartMinute="4" StartHole="1">
+            
+                <Player ID="81907" WwgrID="1709" Order="1" FirstName="Karen" LastName="Stupples" Country="ENG" Hometown="ENGLAND" IsAmateur="False" />
+            
+                <Player ID="80401" WwgrID="1411" Order="2" FirstName="Diana" LastName="D'Alessio" Country="USA" Hometown="FLANDERS NJ" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="2" CourseCode="LO" Start="09:12 AM" StartHour="9" StartMinute="12" StartHole="1">
+            
+                <Player ID="98028" WwgrID="1233" Order="1" FirstName="Christel" LastName="Boeljon" Country="NLD" Hometown="BEVERWIJK NETHERLANDS" IsAmateur="False" />
+            
+                <Player ID="81327" WwgrID="796" Order="2" FirstName="Becky" LastName="Morgan" Country="WAL" Hometown="MONMOUTH WALES" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="3" CourseCode="LO" Start="09:20 AM" StartHour="9" StartMinute="20" StartHole="1">
+            
+                <Player ID="82874" WwgrID="1518" Order="1" FirstName="Shanshan" LastName="Feng" Country="CHN" Hometown="GUANGZHOU CHINA" IsAmateur="False" />
+            
+                <Player ID="81955" WwgrID="1692" Order="2" FirstName="Sherri" LastName="Steinhauer" Country="USA" Hometown="MADISON WI" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="4" CourseCode="LO" Start="09:28 AM" StartHour="9" StartMinute="28" StartHole="1">
+            
+                <Player ID="88178" WwgrID="581" Order="1" FirstName="Jennie" LastName="Lee" Country="USA" Hometown="HENDERSON, NV" IsAmateur="False" />
+            
+                <Player ID="88308" WwgrID="3279" Order="2" FirstName="Jenny" LastName="Shin" Country="USA" Hometown="TORRENCE CA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="5" CourseCode="LO" Start="09:36 AM" StartHour="9" StartMinute="36" StartHole="1">
+            
+                <Player ID="88214" WwgrID="3581" Order="1" FirstName="Ryann" LastName="O'Toole" Country="USA" Hometown="CALIFORNIA" IsAmateur="False" />
+            
+                <Player ID="80304" WwgrID="1296" Order="2" FirstName="Silvia" LastName="Cavalleri" Country="ITA" Hometown="MILANO ITALY" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="6" CourseCode="LO" Start="09:44 AM" StartHour="9" StartMinute="44" StartHole="1">
+            
+                <Player ID="80712" WwgrID="92" Order="1" FirstName="Sophie" LastName="Gustafson" Country="SWE" Hometown="SWEDEN" IsAmateur="False" />
+            
+                <Player ID="87945" WwgrID="2546" Order="2" FirstName="M.J." LastName="Hur" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="7" CourseCode="LO" Start="09:52 AM" StartHour="9" StartMinute="52" StartHole="1">
+            
+                <Player ID="82817" WwgrID="399" Order="1" FirstName="Sarah Jane" LastName="Smith" Country="AUS" Hometown="CALOUNDRA QUEENSLAND" IsAmateur="False" />
+            
+                <Player ID="82803" WwgrID="1169" Order="2" FirstName="Kyeong" LastName="Bae" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="8" CourseCode="LO" Start="10:08 AM" StartHour="10" StartMinute="8" StartHole="1">
+            
+                <Player ID="82859" WwgrID="744" Order="1" FirstName="Kristy" LastName="McPherson" Country="USA" Hometown="CONWAY SC" IsAmateur="False" />
+            
+                <Player ID="82888" WwgrID="628" Order="2" FirstName="Taylor" LastName="Leon" Country="USA" Hometown="DALLAS TX" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="9" CourseCode="LO" Start="10:16 AM" StartHour="10" StartMinute="16" StartHole="1">
+            
+                <Player ID="88106" WwgrID="1913" Order="1" FirstName="Michelle" LastName="Wie" Country="USA" Hometown="HONOLULU HI" IsAmateur="False" />
+            
+                <Player ID="81219" WwgrID="645" Order="2" FirstName="Leta" LastName="Lindley" Country="USA" Hometown="PALM BCH GARDENS FL" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="10" CourseCode="LO" Start="10:24 AM" StartHour="10" StartMinute="24" StartHole="1">
+            
+                <Player ID="88253" WwgrID="1580" Order="1" FirstName="Dewi Claire" LastName="Schreefel" Country="NLD" Hometown="THE NETHERLANDS" IsAmateur="False" />
+            
+                <Player ID="87846" WwgrID="2885" Order="2" FirstName="Mindy" LastName="Kim" Country="USA" Hometown="DIAMOND BAR, CA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="11" CourseCode="LO" Start="10:32 AM" StartHour="10" StartMinute="32" StartHole="1">
+            
+                <Player ID="82847" WwgrID="311" Order="1" FirstName="Eun-Hee" LastName="Ji" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="82886" WwgrID="397" Order="2" FirstName="Sarah" LastName="Kemp" Country="AUS" Hometown="TUNCURRY AUSTRALIA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="12" CourseCode="LO" Start="10:40 AM" StartHour="10" StartMinute="40" StartHole="1">
+            
+                <Player ID="82814" WwgrID="2058" Order="1" FirstName="Julieta" LastName="Granada" Country="PRY" Hometown="PARAGUAY" IsAmateur="False" />
+            
+                <Player ID="81624" WwgrID="967" Order="2" FirstName="Grace" LastName="Park" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="13" CourseCode="LO" Start="10:48 AM" StartHour="10" StartMinute="48" StartHole="1">
+            
+                <Player ID="81104" WwgrID="450" Order="1" FirstName="Mi Hyun" LastName="Kim" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="88111" WwgrID="1615" Order="2" FirstName="Jiyai" LastName="Shin" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="14" CourseCode="LO" Start="10:56 AM" StartHour="10" StartMinute="56" StartHole="1">
+            
+                <Player ID="81102" WwgrID="355" Order="1" FirstName="Lorie" LastName="Kane" Country="CAN" Hometown="P.E.I. CANADA" IsAmateur="False" />
+            
+                <Player ID="88113" WwgrID="1067" Order="2" FirstName="Beatriz" LastName="Recari" Country="ESP" Hometown="PAMPLONA SPAIN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="15" CourseCode="LO" Start="11:04 AM" StartHour="11" StartMinute="4" StartHole="1">
+            
+                <Player ID="81313" WwgrID="724" Order="1" FirstName="Catriona" LastName="Matthew" Country="SCT" Hometown="N. BERWICK SCOTLAND" IsAmateur="False" />
+            
+                <Player ID="81603" WwgrID="957" Order="2" FirstName="Se Ri" LastName="Pak" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="16" CourseCode="LO" Start="11:12 AM" StartHour="11" StartMinute="12" StartHole="1">
+            
+                <Player ID="82878" WwgrID="1336" Order="1" FirstName="Na Yeon" LastName="Choi" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="80831" WwgrID="108" Order="2" FirstName="Hee-Won" LastName="Han" Country="KOR" Hometown="SEOUL SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="17" CourseCode="LO" Start="11:20 AM" StartHour="11" StartMinute="20" StartHole="1">
+            
+                <Player ID="80903" WwgrID="261" Order="1" FirstName="Juli" LastName="Inkster" Country="USA" Hometown="LOS ALTOS CA" IsAmateur="False" />
+            
+                <Player ID="88109" WwgrID="2377" Order="2" FirstName="Anna" LastName="Nordqvist" Country="SWE" Hometown="ESKILSTUNA SWEDEN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="18" CourseCode="LO" Start="11:28 AM" StartHour="11" StartMinute="28" StartHole="1">
+            
+                <Player ID="82836" WwgrID="2000" Order="1" FirstName="Sun Young" LastName="Yoo" Country="KOR" Hometown="SEOUL SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="88406" WwgrID="3599" Order="2" FirstName="Jennifer" LastName="Johnson" Country="USA" Hometown="LAQUINTA CA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="19" CourseCode="LO" Start="11:44 AM" StartHour="11" StartMinute="44" StartHole="1">
+            
+                <Player ID="80142" WwgrID="642" Order="1" FirstName="Brittany" LastName="Lincicome" Country="USA" Hometown="SEMINOLE FL" IsAmateur="False" />
+            
+                <Player ID="87949" WwgrID="2781" Order="2" FirstName="Haeji" LastName="Kang" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="20" CourseCode="LO" Start="11:52 AM" StartHour="11" StartMinute="52" StartHole="1">
+            
+                <Player ID="80727" WwgrID="90" Order="1" FirstName="Natalie" LastName="Gulbis" Country="USA" Hometown="LAKE LAS VEGAS NV" IsAmateur="False" />
+            
+                <Player ID="82739" WwgrID="1068" Order="2" FirstName="Michele" LastName="Redman" Country="USA" Hometown="MINNEAPOLIS MN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="21" CourseCode="LO" Start="12:00 PM" StartHour="12" StartMinute="0" StartHole="1">
+            
+                <Player ID="93425" WwgrID="3003" Order="1" FirstName="Danielle" LastName="Kang" Country="USA" Hometown="OAK PARK CA" IsAmateur="True" />
+            
+                <Player ID="88275" WwgrID="2568" Order="2" FirstName="Jennifer" LastName="Song" Country="USA" Hometown="ANN ARBOR MI" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="22" CourseCode="LO" Start="12:08 PM" StartHour="12" StartMinute="8" StartHole="1">
+            
+                <Player ID="82804" WwgrID="1228" Order="1" FirstName="Minea" LastName="Blomqvist" Country="FIN" Hometown="FINLAND" IsAmateur="False" />
+            
+                <Player ID="82630" WwgrID="1421" Order="2" FirstName="Laura" LastName="Davies" Country="GBR" Hometown="LYNE ENGLAND" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="23" CourseCode="LO" Start="12:16 PM" StartHour="12" StartMinute="16" StartHole="1">
+            
+                <Player ID="81810" WwgrID="1058" Order="1" FirstName="Reilley" LastName="Rankin" Country="USA" Hometown="HILTON HEAD ISLAND SC" IsAmateur="False" />
+            
+                <Player ID="81635" WwgrID="1042" Order="2" FirstName="Stacy" LastName="Prammanasudh" Country="USA" Hometown="ENID OK" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="24" CourseCode="LO" Start="12:24 PM" StartHour="12" StartMinute="24" StartHole="1">
+            
+                <Player ID="82830" WwgrID="1637" Order="1" FirstName="Karin" LastName="Sjodin" Country="SWE" Hometown="GOTHENBURG SWEDEN" IsAmateur="False" />
+            
+                <Player ID="80851" WwgrID="232" Order="2" FirstName="Amy" LastName="Hung" Country="TWN" Hometown="TAIWAN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="25" CourseCode="LO" Start="12:32 PM" StartHour="12" StartMinute="32" StartHole="1">
+            
+                <Player ID="93382" WwgrID="1718" Order="1" FirstName="Hee Kyung" LastName="Seo" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="80223" WwgrID="1248" Order="2" FirstName="Heather" LastName="Bowie Young" Country="USA" Hometown="DOVER DE" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="26" CourseCode="LO" Start="12:40 PM" StartHour="12" StartMinute="40" StartHole="1">
+            
+                <Player ID="82858" WwgrID="2202" Order="1" FirstName="Paige" LastName="Mackenzie" Country="USA" Hometown="YAKIMA WA" IsAmateur="False" />
+            
+                <Player ID="87953" WwgrID="3595" Order="2" FirstName="Yoo Kyeong" LastName="Kim" Country="KOR" Hometown="INCHEON SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="27" CourseCode="LO" Start="12:48 PM" StartHour="12" StartMinute="48" StartHole="1">
+            
+                <Player ID="81901" WwgrID="1687" Order="1" FirstName="Angela" LastName="Stanford" Country="USA" Hometown="SAGINAW TX" IsAmateur="False" />
+            
+                <Player ID="87818" WwgrID="2865" Order="2" FirstName="Jeehae" LastName="Lee" Country="KOR" Hometown="ORLANDO FL" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="28" CourseCode="LO" Start="12:56 PM" StartHour="12" StartMinute="56" StartHole="1">
+            
+                <Player ID="80850" WwgrID="230" Order="1" FirstName="Katherine" LastName="Hull" Country="AUS" Hometown="SUNRISE BCH AUSTRALIA" IsAmateur="False" />
+            
+                <Player ID="81128" WwgrID="361" Order="2" FirstName="Jimin" LastName="Kang" Country="KOR" Hometown="SCOTTSDALE AZ" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="29" CourseCode="LO" Start="01:12 PM" StartHour="13" StartMinute="12" StartHole="1">
+            
+                <Player ID="82313" WwgrID="1888" Order="1" FirstName="Karrie" LastName="Webb" Country="AUS" Hometown="AYR QLD AUSTRALIA" IsAmateur="False" />
+            
+                <Player ID="88110" WwgrID="2277" Order="2" FirstName="Pornanong" LastName="Phatlum" Country="THA" Hometown="CHAIYAPHUM THAILAND" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="30" CourseCode="LO" Start="01:20 PM" StartHour="13" StartMinute="20" StartHole="1">
+            
+                <Player ID="88271" WwgrID="2420" Order="1" FirstName="Tiffany" LastName="Joh" Country="USA" Hometown="SAN DIEGO, CA" IsAmateur="False" />
+            
+                <Player ID="82901" WwgrID="2418" Order="2" FirstName="Amy" LastName="Yang" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="31" CourseCode="LO" Start="01:28 PM" StartHour="13" StartMinute="28" StartHole="1">
+            
+                <Player ID="82866" WwgrID="975" Order="1" FirstName="Inbee" LastName="Park" Country="KOR" Hometown="SEOUL SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="81127" WwgrID="535" Order="2" FirstName="Candie" LastName="Kung" Country="TWN" Hometown="TAIWAN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="32" CourseCode="LO" Start="01:36 PM" StartHour="13" StartMinute="36" StartHole="1">
+            
+                <Player ID="80839" WwgrID="236" Order="1" FirstName="Pat" LastName="Hurst" Country="USA" Hometown="ARIZONA" IsAmateur="False" />
+            
+                <Player ID="81622" WwgrID="1021" Order="2" FirstName="Suzann" LastName="Pettersen" Country="NOR" Hometown="NORWAY" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="33" CourseCode="LO" Start="01:44 PM" StartHour="13" StartMinute="44" StartHole="1">
+            
+                <Player ID="82898" WwgrID="1836" Order="1" FirstName="Momoko" LastName="Ueda" Country="JPN" Hometown="KUMAMOTO JAPAN" IsAmateur="False" />
+            
+                <Player ID="88114" WwgrID="3288" Order="2" FirstName="Azahara" LastName="Munoz" Country="ESP" Hometown="MALAGA SPAIN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="34" CourseCode="LO" Start="01:52 PM" StartHour="13" StartMinute="52" StartHole="1">
+            
+                <Player ID="82850" WwgrID="434" Order="1" FirstName="I.K." LastName="Kim" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="80822" WwgrID="203" Order="2" FirstName="Maria" LastName="Hjorth" Country="SWE" Hometown="SWEDEN" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="35" CourseCode="LO" Start="02:08 PM" StartHour="14" StartMinute="8" StartHole="1">
+            
+                <Player ID="88108" WwgrID="776" Order="1" FirstName="Mika" LastName="Miyazato" Country="JPN" Hometown="OKINAWA JAPAN" IsAmateur="False" />
+            
+                <Player ID="82813" WwgrID="40" Order="2" FirstName="Katie" LastName="Futcher" Country="USA" Hometown="THE WOODLANDS TX" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="36" CourseCode="LO" Start="02:16 PM" StartHour="14" StartMinute="16" StartHole="1">
+            
+                <Player ID="80141" WwgrID="602" Order="1" FirstName="Meena" LastName="Lee" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+                <Player ID="80130" WwgrID="1380" Order="2" FirstName="Paula" LastName="Creamer" Country="USA" Hometown="PLEASANTON CA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="37" CourseCode="LO" Start="02:24 PM" StartHour="14" StartMinute="24" StartHole="1">
+            
+                <Player ID="81106" WwgrID="400" Order="1" FirstName="Cristie" LastName="Kerr" Country="USA" Hometown="MIAMI FL" IsAmateur="False" />
+            
+                <Player ID="88105" WwgrID="2643" Order="2" FirstName="Stacy" LastName="Lewis" Country="USA" Hometown="THE WOODLANDS TX" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="38" CourseCode="LO" Start="02:32 PM" StartHour="14" StartMinute="32" StartHole="1">
+            
+                <Player ID="82827" WwgrID="1044" Order="1" FirstName="Morgan" LastName="Pressel" Country="USA" Hometown="BOCA RATON FL" IsAmateur="False" />
+            
+                <Player ID="82892" WwgrID="970" Order="2" FirstName="Hee Young" LastName="Park" Country="KOR" Hometown="SOUTH KOREA" IsAmateur="False" />
+            
+            </Group>
+        
+            <Group ID="39" CourseCode="LO" Start="02:40 PM" StartHour="14" StartMinute="40" StartHole="1">
+            
+                <Player ID="82897" WwgrID="1813" Order="1" FirstName="Yani" LastName="Tseng" Country="TPE" Hometown="LAKE NONA FL" IsAmateur="False" />
+            
+                <Player ID="88158" WwgrID="3535" Order="2" FirstName="Cindy" LastName="LaCrosse" Country="USA" Hometown="TAMPA FL" IsAmateur="False" />
+            
+            </Group>
+        
+        </Round>
+    </Tournament>
+</GolfDataFeed>

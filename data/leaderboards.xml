@@ -1,0 +1,1516 @@
+
+<GolfDataFeed Type="Leaderboards" Timestamp="3/21/2012 9:18:09 PM">
+    <Tournament ID="27828" Name="WEGMANS LPGA CHAMPIONSHIP">
+        <Leaderboard RoundID="4" CutRound="" CutLine="">
+            
+            <Player ID="82897" WwgrID="1813" FirstName="Yani" LastName="Tseng" Country="TPE" IsAmateur="False" Rank="1" RankTied="False" StartRank="1" StartRankTied="False" Thru="18" StartTee="1" StartTime="02:40 PM" RoundToPar="-6" CumulativeTotal="269" CumulativeToPar="-19" Money="375000" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="66" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="67" />
+            
+               <Round ID="4" Score="66" />
+            
+            </Player>
+            
+            <Player ID="82827" WwgrID="1044" FirstName="Morgan" LastName="Pressel" Country="USA" IsAmateur="False" Rank="2" RankTied="False" StartRank="2" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:32 PM" RoundToPar="-1" CumulativeTotal="279" CumulativeToPar="-9" Money="228695" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="81622" WwgrID="1021" FirstName="Suzann" LastName="Pettersen" Country="NOR" IsAmateur="False" Rank="3" RankTied="True" StartRank="16" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:36 PM" RoundToPar="-5" CumulativeTotal="280" CumulativeToPar="-8" Money="132512" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="69" />
+            
+               <Round ID="4" Score="67" />
+            
+            </Player>
+            
+            <Player ID="81106" WwgrID="400" FirstName="Cristie" LastName="Kerr" Country="USA" IsAmateur="False" Rank="3" RankTied="True" StartRank="5" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:24 PM" RoundToPar="-3" CumulativeTotal="280" CumulativeToPar="-8" Money="132512" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="67" />
+            
+               <Round ID="4" Score="69" />
+            
+            </Player>
+            
+            <Player ID="80130" WwgrID="1380" FirstName="Paula" LastName="Creamer" Country="USA" IsAmateur="False" Rank="3" RankTied="True" StartRank="5" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:16 PM" RoundToPar="-3" CumulativeTotal="280" CumulativeToPar="-8" Money="132512" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="67" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="69" />
+            
+            </Player>
+            
+            <Player ID="88105" WwgrID="2643" FirstName="Stacy" LastName="Lewis" Country="USA" IsAmateur="False" Rank="6" RankTied="True" StartRank="5" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:24 PM" RoundToPar="-1" CumulativeTotal="282" CumulativeToPar="-6" Money="77630" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="80141" WwgrID="602" FirstName="Meena" LastName="Lee" Country="KOR" IsAmateur="False" Rank="6" RankTied="True" StartRank="5" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:16 PM" RoundToPar="-1" CumulativeTotal="282" CumulativeToPar="-6" Money="77630" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="68" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="88108" WwgrID="776" FirstName="Mika" LastName="Miyazato" Country="JPN" IsAmateur="False" Rank="8" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:08 PM" RoundToPar="-1" CumulativeTotal="283" CumulativeToPar="-5" Money="53840" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="68" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="80822" WwgrID="203" FirstName="Maria" LastName="Hjorth" Country="SWE" IsAmateur="False" Rank="8" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:52 PM" RoundToPar="-1" CumulativeTotal="283" CumulativeToPar="-5" Money="53840" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="88114" WwgrID="3288" FirstName="Azahara" LastName="Munoz" Country="ESP" IsAmateur="False" Rank="8" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:44 PM" RoundToPar="-1" CumulativeTotal="283" CumulativeToPar="-5" Money="53840" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="80839" WwgrID="236" FirstName="Pat" LastName="Hurst" Country="USA" IsAmateur="False" Rank="8" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:36 PM" RoundToPar="-1" CumulativeTotal="283" CumulativeToPar="-5" Money="53840" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="67" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82901" WwgrID="2418" FirstName="Amy" LastName="Yang" Country="KOR" IsAmateur="False" Rank="12" RankTied="True" StartRank="16" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:20 PM" RoundToPar="-1" CumulativeTotal="284" CumulativeToPar="-4" Money="42445" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82850" WwgrID="434" FirstName="I.K." LastName="Kim" Country="KOR" IsAmateur="False" Rank="12" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:52 PM" RoundToPar="0" CumulativeTotal="284" CumulativeToPar="-4" Money="42445" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="69" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="80223" WwgrID="1248" FirstName="Heather" LastName="Bowie Young" Country="USA" IsAmateur="False" Rank="14" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:32 PM" RoundToPar="-2" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="80851" WwgrID="232" FirstName="Amy" LastName="Hung" Country="TWN" IsAmateur="False" Rank="14" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:24 PM" RoundToPar="-2" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="82866" WwgrID="975" FirstName="Inbee" LastName="Park" Country="KOR" IsAmateur="False" Rank="14" RankTied="True" StartRank="16" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:28 PM" RoundToPar="0" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="82813" WwgrID="40" FirstName="Katie" LastName="Futcher" Country="USA" IsAmateur="False" Rank="14" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:08 PM" RoundToPar="1" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="68" />
+            
+               <Round ID="3" Score="69" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82892" WwgrID="970" FirstName="Hee Young" LastName="Park" Country="KOR" IsAmateur="False" Rank="14" RankTied="True" StartRank="4" StartRankTied="False" Thru="18" StartTee="1" StartTime="02:32 PM" RoundToPar="3" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="75" />
+            
+            </Player>
+            
+            <Player ID="88158" WwgrID="3535" FirstName="Cindy" LastName="LaCrosse" Country="USA" IsAmateur="False" Rank="14" RankTied="True" StartRank="2" StartRankTied="True" Thru="18" StartTee="1" StartTime="02:40 PM" RoundToPar="5" CumulativeTotal="285" CumulativeToPar="-3" Money="33765" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="69" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="80142" WwgrID="642" FirstName="Brittany" LastName="Lincicome" Country="USA" IsAmateur="False" Rank="20" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:44 AM" RoundToPar="-3" CumulativeTotal="286" CumulativeToPar="-2" Money="26795" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="69" />
+            
+            </Player>
+            
+            <Player ID="82836" WwgrID="2000" FirstName="Sun Young" LastName="Yoo" Country="KOR" IsAmateur="False" Rank="20" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:28 AM" RoundToPar="-3" CumulativeTotal="286" CumulativeToPar="-2" Money="26795" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="69" />
+            
+            </Player>
+            
+            <Player ID="82858" WwgrID="2202" FirstName="Paige" LastName="Mackenzie" Country="USA" IsAmateur="False" Rank="20" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:40 PM" RoundToPar="-1" CumulativeTotal="286" CumulativeToPar="-2" Money="26795" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82313" WwgrID="1888" FirstName="Karrie" LastName="Webb" Country="AUS" IsAmateur="False" Rank="20" RankTied="True" StartRank="21" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:12 PM" RoundToPar="0" CumulativeTotal="286" CumulativeToPar="-2" Money="26795" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="81127" WwgrID="535" FirstName="Candie" LastName="Kung" Country="TWN" IsAmateur="False" Rank="20" RankTied="True" StartRank="16" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:28 PM" RoundToPar="1" CumulativeTotal="286" CumulativeToPar="-2" Money="26795" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="88109" WwgrID="2377" FirstName="Anna" LastName="Nordqvist" Country="SWE" IsAmateur="False" Rank="25" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:20 AM" RoundToPar="-2" CumulativeTotal="287" CumulativeToPar="-1" Money="22162" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="80831" WwgrID="108" FirstName="Hee-Won" LastName="Han" Country="KOR" IsAmateur="False" Rank="25" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:12 AM" RoundToPar="-2" CumulativeTotal="287" CumulativeToPar="-1" Money="22162" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="88110" WwgrID="2277" FirstName="Pornanong" LastName="Phatlum" Country="THA" IsAmateur="False" Rank="25" RankTied="True" StartRank="21" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:12 PM" RoundToPar="1" CumulativeTotal="287" CumulativeToPar="-1" Money="22162" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="81128" WwgrID="361" FirstName="Jimin" LastName="Kang" Country="KOR" IsAmateur="False" Rank="25" RankTied="True" StartRank="21" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:56 PM" RoundToPar="1" CumulativeTotal="287" CumulativeToPar="-1" Money="22162" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="88271" WwgrID="2420" FirstName="Tiffany" LastName="Joh" Country="USA" IsAmateur="False" Rank="25" RankTied="True" StartRank="16" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:20 PM" RoundToPar="2" CumulativeTotal="287" CumulativeToPar="-1" Money="22162" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="88275" WwgrID="2568" FirstName="Jennifer" LastName="Song" Country="USA" IsAmateur="False" Rank="30" RankTied="True" StartRank="36" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:00 PM" RoundToPar="0" CumulativeTotal="288" CumulativeToPar="0" Money="18531" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="81810" WwgrID="1058" FirstName="Reilley" LastName="Rankin" Country="USA" IsAmateur="False" Rank="30" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:16 PM" RoundToPar="1" CumulativeTotal="288" CumulativeToPar="0" Money="18531" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="68" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="81901" WwgrID="1687" FirstName="Angela" LastName="Stanford" Country="USA" IsAmateur="False" Rank="30" RankTied="True" StartRank="21" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:48 PM" RoundToPar="2" CumulativeTotal="288" CumulativeToPar="0" Money="18531" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="68" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82898" WwgrID="1836" FirstName="Momoko" LastName="Ueda" Country="JPN" IsAmateur="False" Rank="30" RankTied="True" StartRank="9" StartRankTied="True" Thru="18" StartTee="1" StartTime="01:44 PM" RoundToPar="4" CumulativeTotal="288" CumulativeToPar="0" Money="18531" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="76" />
+            
+            </Player>
+            
+            <Player ID="81907" WwgrID="1709" FirstName="Karen" LastName="Stupples" Country="ENG" IsAmateur="False" Rank="34" RankTied="True" StartRank="76" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:04 AM" RoundToPar="-7" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="74" />
+            
+               <Round ID="3" Score="78" />
+            
+               <Round ID="4" Score="65" />
+            
+            </Player>
+            
+            <Player ID="87945" WwgrID="2546" FirstName="M.J." LastName="Hur" Country="KOR" IsAmateur="False" Rank="34" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:44 AM" RoundToPar="-4" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="75" />
+            
+               <Round ID="3" Score="76" />
+            
+               <Round ID="4" Score="68" />
+            
+            </Player>
+            
+            <Player ID="88111" WwgrID="1615" FirstName="Jiyai" LastName="Shin" Country="KOR" IsAmateur="False" Rank="34" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:48 AM" RoundToPar="-2" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="81603" WwgrID="957" FirstName="Se Ri" LastName="Pak" Country="KOR" IsAmateur="False" Rank="34" RankTied="True" StartRank="50" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:04 AM" RoundToPar="-1" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="68" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="80903" WwgrID="261" FirstName="Juli" LastName="Inkster" Country="USA" IsAmateur="False" Rank="34" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:20 AM" RoundToPar="0" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="81313" WwgrID="724" FirstName="Catriona" LastName="Matthew" Country="SCT" IsAmateur="False" Rank="34" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:04 AM" RoundToPar="0" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="82739" WwgrID="1068" FirstName="Michele" LastName="Redman" Country="USA" IsAmateur="False" Rank="34" RankTied="True" StartRank="36" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:52 AM" RoundToPar="1" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="87953" WwgrID="3595" FirstName="Yoo Kyeong" LastName="Kim" Country="KOR" IsAmateur="False" Rank="34" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:40 PM" RoundToPar="2" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="93382" WwgrID="1718" FirstName="Hee Kyung" LastName="Seo" Country="KOR" IsAmateur="False" Rank="34" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:32 PM" RoundToPar="2" CumulativeTotal="289" CumulativeToPar="1" Money="14232" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82888" WwgrID="628" FirstName="Taylor" LastName="Leon" Country="USA" IsAmateur="False" Rank="43" RankTied="True" StartRank="63" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:08 AM" RoundToPar="-2" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="82847" WwgrID="311" FirstName="Eun-Hee" LastName="Ji" Country="KOR" IsAmateur="False" Rank="43" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:32 AM" RoundToPar="-1" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="76" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="87846" WwgrID="2885" FirstName="Mindy" LastName="Kim" Country="USA" IsAmateur="False" Rank="43" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:24 AM" RoundToPar="-1" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="75" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="81104" WwgrID="450" FirstName="Mi Hyun" LastName="Kim" Country="KOR" IsAmateur="False" Rank="43" RankTied="True" StartRank="50" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:48 AM" RoundToPar="0" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="67" />
+            
+               <Round ID="3" Score="76" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="88406" WwgrID="3599" FirstName="Jennifer" LastName="Johnson" Country="USA" IsAmateur="False" Rank="43" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:28 AM" RoundToPar="1" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="76" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82878" WwgrID="1336" FirstName="Na Yeon" LastName="Choi" Country="KOR" IsAmateur="False" Rank="43" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:12 AM" RoundToPar="1" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82830" WwgrID="1637" FirstName="Karin" LastName="Sjodin" Country="SWE" IsAmateur="False" Rank="43" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:24 PM" RoundToPar="3" CumulativeTotal="290" CumulativeToPar="2" Money="10285" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="75" />
+            
+            </Player>
+            
+            <Player ID="82874" WwgrID="1518" FirstName="Shanshan" LastName="Feng" Country="CHN" IsAmateur="False" Rank="50" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:20 AM" RoundToPar="-2" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="66" />
+            
+               <Round ID="3" Score="80" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="82859" WwgrID="744" FirstName="Kristy" LastName="McPherson" Country="USA" IsAmateur="False" Rank="50" RankTied="True" StartRank="63" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:08 AM" RoundToPar="-1" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="74" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82817" WwgrID="399" FirstName="Sarah Jane" LastName="Smith" Country="AUS" IsAmateur="False" Rank="50" RankTied="True" StartRank="63" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:52 AM" RoundToPar="-1" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82814" WwgrID="2058" FirstName="Julieta" LastName="Granada" Country="PRY" IsAmateur="False" Rank="50" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:40 AM" RoundToPar="0" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="82886" WwgrID="397" FirstName="Sarah" LastName="Kemp" Country="AUS" IsAmateur="False" Rank="50" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:32 AM" RoundToPar="0" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="88113" WwgrID="1067" FirstName="Beatriz" LastName="Recari" Country="ESP" IsAmateur="False" Rank="50" RankTied="True" StartRank="50" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:56 AM" RoundToPar="1" CumulativeTotal="291" CumulativeToPar="3" Money="8138" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="74" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="93425" WwgrID="3003" FirstName="Danielle" LastName="Kang" Country="USA" IsAmateur="True" Rank="50" RankTied="True" StartRank="36" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:00 PM" RoundToPar="3" CumulativeTotal="291" CumulativeToPar="3" Money="0" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="75" />
+            
+            </Player>
+            
+            <Player ID="81327" WwgrID="796" FirstName="Becky" LastName="Morgan" Country="WAL" IsAmateur="False" Rank="57" RankTied="True" StartRank="76" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:12 AM" RoundToPar="-4" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="78" />
+            
+               <Round ID="4" Score="68" />
+            
+            </Player>
+            
+            <Player ID="98028" WwgrID="1233" FirstName="Christel" LastName="Boeljon" Country="NLD" IsAmateur="False" Rank="57" RankTied="True" StartRank="74" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:12 AM" RoundToPar="-2" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="77" />
+            
+               <Round ID="4" Score="70" />
+            
+            </Player>
+            
+            <Player ID="80712" WwgrID="92" FirstName="Sophie" LastName="Gustafson" Country="SWE" IsAmateur="False" Rank="57" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:44 AM" RoundToPar="-1" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="76" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="88214" WwgrID="3581" FirstName="Ryann" LastName="O'Toole" Country="USA" IsAmateur="False" Rank="57" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:36 AM" RoundToPar="-1" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="76" />
+            
+               <Round ID="3" Score="76" />
+            
+               <Round ID="4" Score="71" />
+            
+            </Player>
+            
+            <Player ID="88253" WwgrID="1580" FirstName="Dewi Claire" LastName="Schreefel" Country="NLD" IsAmateur="False" Rank="57" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:24 AM" RoundToPar="1" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="81219" WwgrID="645" FirstName="Leta" LastName="Lindley" Country="USA" IsAmateur="False" Rank="57" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:16 AM" RoundToPar="1" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="81102" WwgrID="355" FirstName="Lorie" LastName="Kane" Country="CAN" IsAmateur="False" Rank="57" RankTied="True" StartRank="50" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:56 AM" RoundToPar="2" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82630" WwgrID="1421" FirstName="Laura" LastName="Davies" Country="GBR" IsAmateur="False" Rank="57" RankTied="True" StartRank="36" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:08 PM" RoundToPar="4" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="70" />
+            
+               <Round ID="4" Score="76" />
+            
+            </Player>
+            
+            <Player ID="87818" WwgrID="2865" FirstName="Jeehae" LastName="Lee" Country="KOR" IsAmateur="False" Rank="57" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:48 PM" RoundToPar="5" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="69" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="81635" WwgrID="1042" FirstName="Stacy" LastName="Prammanasudh" Country="USA" IsAmateur="False" Rank="57" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:16 PM" RoundToPar="5" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="68" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="74" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="80850" WwgrID="230" FirstName="Katherine" LastName="Hull" Country="AUS" IsAmateur="False" Rank="57" RankTied="True" StartRank="21" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:56 PM" RoundToPar="6" CumulativeTotal="292" CumulativeToPar="4" Money="6249" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="70" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="78" />
+            
+            </Player>
+            
+            <Player ID="88178" WwgrID="581" FirstName="Jennie" LastName="Lee" Country="USA" IsAmateur="False" Rank="68" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:28 AM" RoundToPar="0" CumulativeTotal="293" CumulativeToPar="5" Money="5196" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="71" />
+            
+               <Round ID="3" Score="78" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="88308" WwgrID="3279" FirstName="Jenny" LastName="Shin" Country="USA" IsAmateur="False" Rank="68" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:28 AM" RoundToPar="0" CumulativeTotal="293" CumulativeToPar="5" Money="5196" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="70" />
+            
+               <Round ID="3" Score="79" />
+            
+               <Round ID="4" Score="72" />
+            
+            </Player>
+            
+            <Player ID="80727" WwgrID="90" FirstName="Natalie" LastName="Gulbis" Country="USA" IsAmateur="False" Rank="68" RankTied="True" StartRank="36" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:52 AM" RoundToPar="5" CumulativeTotal="293" CumulativeToPar="5" Money="5196" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="72" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82804" WwgrID="1228" FirstName="Minea" LastName="Blomqvist" Country="FIN" IsAmateur="False" Rank="68" RankTied="True" StartRank="26" StartRankTied="True" Thru="18" StartTee="1" StartTime="12:08 PM" RoundToPar="6" CumulativeTotal="293" CumulativeToPar="5" Money="5196" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="69" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="77" />
+            
+               <Round ID="4" Score="78" />
+            
+            </Player>
+            
+            <Player ID="82803" WwgrID="1169" FirstName="Kyeong" LastName="Bae" Country="KOR" IsAmateur="False" Rank="72" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:52 AM" RoundToPar="1" CumulativeTotal="294" CumulativeToPar="6" Money="4883" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="74" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="88106" WwgrID="1913" FirstName="Michelle" LastName="Wie" Country="USA" IsAmateur="False" Rank="72" RankTied="True" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:16 AM" RoundToPar="3" CumulativeTotal="294" CumulativeToPar="6" Money="4883" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="75" />
+            
+               <Round ID="4" Score="75" />
+            
+            </Player>
+            
+            <Player ID="87949" WwgrID="2781" FirstName="Haeji" LastName="Kang" Country="KOR" IsAmateur="False" Rank="72" RankTied="True" StartRank="41" StartRankTied="True" Thru="18" StartTee="1" StartTime="11:44 AM" RoundToPar="5" CumulativeTotal="294" CumulativeToPar="6" Money="4883" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="72" />
+            
+               <Round ID="3" Score="71" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="81955" WwgrID="1692" FirstName="Sherri" LastName="Steinhauer" Country="USA" IsAmateur="False" Rank="75" RankTied="True" StartRank="74" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:20 AM" RoundToPar="1" CumulativeTotal="295" CumulativeToPar="7" Money="4729" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="76" />
+            
+               <Round ID="4" Score="73" />
+            
+            </Player>
+            
+            <Player ID="80304" WwgrID="1296" FirstName="Silvia" LastName="Cavalleri" Country="ITA" IsAmateur="False" Rank="75" RankTied="True" StartRank="66" StartRankTied="True" Thru="18" StartTee="1" StartTime="09:36 AM" RoundToPar="2" CumulativeTotal="295" CumulativeToPar="7" Money="4729" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="69" />
+            
+               <Round ID="3" Score="77" />
+            
+               <Round ID="4" Score="74" />
+            
+            </Player>
+            
+            <Player ID="81624" WwgrID="967" FirstName="Grace" LastName="Park" Country="KOR" IsAmateur="False" Rank="77" RankTied="False" StartRank="54" StartRankTied="True" Thru="18" StartTee="1" StartTime="10:40 AM" RoundToPar="5" CumulativeTotal="296" CumulativeToPar="8" Money="4641" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="73" />
+            
+               <Round ID="3" Score="73" />
+            
+               <Round ID="4" Score="77" />
+            
+            </Player>
+            
+            <Player ID="80401" WwgrID="1411" FirstName="Diana" LastName="D'Alessio" Country="USA" IsAmateur="False" Rank="78" RankTied="False" StartRank="78" StartRankTied="False" Thru="18" StartTee="1" StartTime="09:04 AM" RoundToPar="4" CumulativeTotal="301" CumulativeToPar="13" Money="4582" TournamentStatus="ACT" RoundStatus="FIN">
+            
+               <Round ID="1" Score="68" />
+            
+               <Round ID="2" Score="77" />
+            
+               <Round ID="3" Score="80" />
+            
+               <Round ID="4" Score="76" />
+            
+            </Player>
+            
+            <Player ID="93476" WwgrID="1141" FirstName="Chie" LastName="Arimura" Country="JPN" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="69" />
+            
+            </Player>
+            
+            <Player ID="80215" WwgrID="1165" FirstName="Beth" LastName="Bader" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="70" />
+            
+            </Player>
+            
+            <Player ID="87987" WwgrID="3172" FirstName="Chella" LastName="Choi" Country="KOR" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="80407" WwgrID="1465" FirstName="Moira" LastName="Dunn" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="82842" WwgrID="1510" FirstName="Mollie" LastName="Fankhauser" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="82812" WwgrID="6" FirstName="Meaghan" LastName="Francella" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82851" WwgrID="461" FirstName="Song-Hee" LastName="Kim" Country="KOR" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="72" />
+            
+            </Player>
+            
+            <Player ID="81112" WwgrID="416" FirstName="Christina" LastName="Kim" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="88399" WwgrID="2653" FirstName="Jessica" LastName="Korda" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="98070" WwgrID="3746" FirstName="Haru" LastName="Nomura" Country="JPN" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82864" WwgrID="2335" FirstName="Jin Young" LastName="Pak" Country="KOR" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="80144" WwgrID="1600" FirstName="Alena" LastName="Sharp" Country="CAN" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="80149" WwgrID="1768" FirstName="Kris" LastName="Tamulis" Country="USA" IsAmateur="False" Rank="79" RankTied="True" StartRank="79" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="147" CumulativeToPar="3" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="80110" WwgrID="1108" FirstName="Shi Hyun" LastName="Ahn" Country="KOR" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="71" />
+            
+            </Player>
+            
+            <Player ID="82811" WwgrID="3" FirstName="Allison" LastName="Fouch" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="72" />
+            
+            </Player>
+            
+            <Player ID="82882" WwgrID="94" FirstName="Nicole" LastName="Hage" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="70" />
+            
+            </Player>
+            
+            <Player ID="82689" WwgrID="173" FirstName="Julie" LastName="Hennessy" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="72" />
+            
+            </Player>
+            
+            <Player ID="87998" WwgrID="2606" FirstName="Vicky" LastName="Hurst" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="71" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82603" WwgrID="579" FirstName="Ilhee" LastName="Lee" Country="KOR" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82820" WwgrID="616" FirstName="Seon Hwa" LastName="Lee" Country="KOR" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="72" />
+            
+            </Player>
+            
+            <Player ID="82821" WwgrID="591" FirstName="Jee Young" LastName="Lee" Country="KOR" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88236" WwgrID="3522" FirstName="Amelia" LastName="Lewis" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="82824" WwgrID="774" FirstName="Ai" LastName="Miyazato" Country="JPN" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="82862" WwgrID="907" FirstName="Ji Young" LastName="Oh" Country="KOR" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="88002" WwgrID="3184" FirstName="Angela" LastName="Oh" Country="USA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="81905" WwgrID="1595" FirstName="Giulia" LastName="Sergas" Country="ITA" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="73" />
+            
+            </Player>
+            
+            <Player ID="87533" WwgrID="2361" FirstName="Jessica" LastName="Shepley" Country="CAN" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="72" />
+            
+            </Player>
+            
+            <Player ID="88440" WwgrID="2665" FirstName="Stephanie" LastName="Sherlock" Country="CAN" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="88276" WwgrID="2636" FirstName="Mariajo" LastName="Uribe" Country="COL" IsAmateur="False" Rank="92" RankTied="True" StartRank="92" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="148" CumulativeToPar="4" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="70" />
+            
+            </Player>
+            
+            <Player ID="82742" WwgrID="1124" FirstName="Dina" LastName="Ammaccapane" Country="USA" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="80211" WwgrID="1267" FirstName="Ashli" LastName="Bunch" Country="USA" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82873" WwgrID="2637" FirstName="Sandra" LastName="Gal" Country="DEU" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="81401" WwgrID="137" FirstName="Marcy" LastName="Hart" Country="USA" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="82884" WwgrID="2323" FirstName="Jimin" LastName="Jeong" Country="KOR" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="72" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82760" WwgrID="1659" FirstName="Aree" LastName="Song" Country="KOR" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88025" WwgrID="3176" FirstName="Jenny" LastName="Suh" Country="USA" IsAmateur="False" Rank="108" RankTied="True" StartRank="108" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="149" CumulativeToPar="5" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88268" WwgrID="2578" FirstName="Amanda" LastName="Blumenherst" Country="USA" IsAmateur="False" Rank="115" RankTied="True" StartRank="115" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="150" CumulativeToPar="6" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="88213" WwgrID="643" FirstName="Pernilla" LastName="Lindberg" Country="SWE" IsAmateur="False" Rank="115" RankTied="True" StartRank="115" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="150" CumulativeToPar="6" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="88375" WwgrID="886" FirstName="Gwladys" LastName="Nocera" Country="FRA" IsAmateur="False" Rank="115" RankTied="True" StartRank="115" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="150" CumulativeToPar="6" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="80" />
+            
+               <Round ID="2" Score="70" />
+            
+            </Player>
+            
+            <Player ID="87765" WwgrID="2553" FirstName="Gerina" LastName="Piller" Country="USA" IsAmateur="False" Rank="115" RankTied="True" StartRank="115" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="150" CumulativeToPar="6" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88281" WwgrID="2196" FirstName="Dori" LastName="Carter" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="81605" WwgrID="1436" FirstName="Laura" LastName="Diaz" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88260" WwgrID="3001" FirstName="Mina" LastName="Harigae" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="81125" WwgrID="659" FirstName="Stephanie" LastName="Louden" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="87531" WwgrID="748" FirstName="Lisa" LastName="Meldrum" Country="CAN" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82867" WwgrID="976" FirstName="Jane" LastName="Park" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="87712" WwgrID="2587" FirstName="Samantha" LastName="Richdale" Country="CAN" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="81833" WwgrID="1099" FirstName="Jennifer" LastName="Rosales" Country="PHL" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="87761" WwgrID="2503" FirstName="Alison" LastName="Walshe" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="82306" WwgrID="1882" FirstName="Wendy" LastName="Ward" Country="USA" IsAmateur="False" Rank="119" RankTied="True" StartRank="119" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="151" CumulativeToPar="7" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="73" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="87567" WwgrID="2336" FirstName="Danah" LastName="Bordner" Country="USA" IsAmateur="False" Rank="129" RankTied="True" StartRank="129" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="152" CumulativeToPar="8" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="80408" WwgrID="1429" FirstName="Annette" LastName="DeLuca" Country="USA" IsAmateur="False" Rank="129" RankTied="True" StartRank="129" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="152" CumulativeToPar="8" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82819" WwgrID="562" FirstName="Brittany" LastName="Lang" Country="USA" IsAmateur="False" Rank="129" RankTied="True" StartRank="129" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="152" CumulativeToPar="8" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="53437" WwgrID="3007" FirstName="Lexi" LastName="Thompson" Country="USA" IsAmateur="False" Rank="129" RankTied="True" StartRank="129" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="152" CumulativeToPar="8" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="74" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="82694" WwgrID="1420" FirstName="Karen" LastName="Davies" Country="WAL" IsAmateur="False" Rank="133" RankTied="True" StartRank="133" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="153" CumulativeToPar="9" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="75" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="81204" WwgrID="599" FirstName="Sarah" LastName="Lee" Country="KOR" IsAmateur="False" Rank="133" RankTied="True" StartRank="133" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="153" CumulativeToPar="9" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="76" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="81337" WwgrID="786" FirstName="Janice" LastName="Moodie" Country="SCT" IsAmateur="False" Rank="133" RankTied="True" StartRank="133" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="153" CumulativeToPar="9" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="81322" WwgrID="740" FirstName="Mhairi" LastName="McKay" Country="SCT" IsAmateur="False" Rank="136" RankTied="True" StartRank="136" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="154" CumulativeToPar="10" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="80" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="93340" WwgrID="2283" FirstName="Belen" LastName="Mozo" Country="ESP" IsAmateur="False" Rank="136" RankTied="True" StartRank="136" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="154" CumulativeToPar="10" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="88067" WwgrID="3165" FirstName="Jean" LastName="Reynolds" Country="USA" IsAmateur="False" Rank="136" RankTied="True" StartRank="136" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="154" CumulativeToPar="10" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82348" WwgrID="1953" FirstName="Lindsey" LastName="Wright" Country="AUS" IsAmateur="False" Rank="136" RankTied="True" StartRank="136" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="154" CumulativeToPar="10" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="76" />
+            
+            </Player>
+            
+            <Player ID="88004" WwgrID="3230" FirstName="Sara" LastName="Brown" Country="USA" IsAmateur="False" Rank="140" RankTied="True" StartRank="140" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="155" CumulativeToPar="11" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="82880" WwgrID="13" FirstName="Louise" LastName="Friberg" Country="SWE" IsAmateur="False" Rank="140" RankTied="True" StartRank="140" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="155" CumulativeToPar="11" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="81" />
+            
+               <Round ID="2" Score="74" />
+            
+            </Player>
+            
+            <Player ID="80710" WwgrID="56" FirstName="Sue" LastName="Ginter" Country="USA" IsAmateur="False" Rank="140" RankTied="True" StartRank="140" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="155" CumulativeToPar="11" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="88207" WwgrID="3533" FirstName="Christine" LastName="Song" Country="USA" IsAmateur="False" Rank="140" RankTied="True" StartRank="140" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="155" CumulativeToPar="11" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="77" />
+            
+            </Player>
+            
+            <Player ID="80430" WwgrID="1431" FirstName="Lisa" LastName="DePaulo" Country="USA" IsAmateur="False" Rank="144" RankTied="True" StartRank="144" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="156" CumulativeToPar="12" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="81" />
+            
+               <Round ID="2" Score="75" />
+            
+            </Player>
+            
+            <Player ID="81131" WwgrID="412" FirstName="Birdie" LastName="Kim" Country="KOR" IsAmateur="False" Rank="144" RankTied="True" StartRank="144" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="156" CumulativeToPar="12" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="78" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="82832" WwgrID="1686" FirstName="Louise" LastName="Stahle" Country="SWE" IsAmateur="False" Rank="144" RankTied="True" StartRank="144" StartRankTied="True" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="156" CumulativeToPar="12" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="77" />
+            
+               <Round ID="2" Score="79" />
+            
+            </Player>
+            
+            <Player ID="82860" WwgrID="2234" FirstName="Na On" LastName="Min" Country="KOR" IsAmateur="False" Rank="147" RankTied="False" StartRank="147" StartRankTied="False" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="157" CumulativeToPar="13" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="79" />
+            
+               <Round ID="2" Score="78" />
+            
+            </Player>
+            
+            <Player ID="81121" WwgrID="516" FirstName="Debbi" LastName="Koyama" Country="USA" IsAmateur="False" Rank="148" RankTied="False" StartRank="148" StartRankTied="False" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="160" CumulativeToPar="16" Money="0" TournamentStatus="CUT" RoundStatus="">
+            
+               <Round ID="1" Score="81" />
+            
+               <Round ID="2" Score="79" />
+            
+            </Player>
+            
+            <Player ID="82881" WwgrID="2490" FirstName="Anna" LastName="Grzebien" Country="USA" IsAmateur="False" Rank="149" RankTied="False" StartRank="149" StartRankTied="False" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="79" CumulativeToPar="7" Money="0" TournamentStatus="WD" RoundStatus="">
+            
+               <Round ID="1" Score="79" />
+            
+            </Player>
+            
+            <Player ID="80135" WwgrID="119" FirstName="Allison" LastName="Hanna" Country="USA" IsAmateur="False" Rank="150" RankTied="False" StartRank="150" StartRankTied="False" Thru="0" StartTee="0" StartTime="" RoundToPar="0" CumulativeTotal="81" CumulativeToPar="9" Money="0" TournamentStatus="WD" RoundStatus="">
+            
+               <Round ID="1" Score="81" />
+            
+            </Player>
+        
+        </Leaderboard>
+    </Tournament>
+</GolfDataFeed>

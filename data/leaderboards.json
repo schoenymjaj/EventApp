@@ -1,0 +1,5133 @@
+{
+  "GolfDataFeed": {
+    "-Timestamp": "3/21/2012 9:18:09 PM",
+    "-Type": "Leaderboards",
+    "Tournament": {
+      "-Name": "WEGMANS LPGA CHAMPIONSHIP",
+      "-ID": "27828",
+      "Leaderboard": {
+        "-RoundID": "4",
+        "Player": [
+          {
+            "-ID": "82897",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "375000",
+            "-CumulativeToPar": "-19",
+            "-CumulativeTotal": "269",
+            "-RoundToPar": "-6",
+            "-StartTime": "02:40 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "False",
+            "-StartRank": "1",
+            "-RankTied": "False",
+            "-Rank": "1",
+            "-IsAmateur": "False",
+            "-Country": "TPE",
+            "-LastName": "Tseng",
+            "-FirstName": "Yani",
+            "-WwgrID": "1813",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "66"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "67"
+              },
+              {
+                "-ID": "4",
+                "-Score": "66"
+              }
+            ]
+          },
+          {
+            "-ID": "82827",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "228695",
+            "-CumulativeToPar": "-9",
+            "-CumulativeTotal": "279",
+            "-RoundToPar": "-1",
+            "-StartTime": "02:32 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "2",
+            "-RankTied": "False",
+            "-Rank": "2",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Pressel",
+            "-FirstName": "Morgan",
+            "-WwgrID": "1044",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "81622",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "132512",
+            "-CumulativeToPar": "-8",
+            "-CumulativeTotal": "280",
+            "-RoundToPar": "-5",
+            "-StartTime": "01:36 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "16",
+            "-RankTied": "True",
+            "-Rank": "3",
+            "-IsAmateur": "False",
+            "-Country": "NOR",
+            "-LastName": "Pettersen",
+            "-FirstName": "Suzann",
+            "-WwgrID": "1021",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "69"
+              },
+              {
+                "-ID": "4",
+                "-Score": "67"
+              }
+            ]
+          },
+          {
+            "-ID": "81106",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "132512",
+            "-CumulativeToPar": "-8",
+            "-CumulativeTotal": "280",
+            "-RoundToPar": "-3",
+            "-StartTime": "02:24 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "5",
+            "-RankTied": "True",
+            "-Rank": "3",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Kerr",
+            "-FirstName": "Cristie",
+            "-WwgrID": "400",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "67"
+              },
+              {
+                "-ID": "4",
+                "-Score": "69"
+              }
+            ]
+          },
+          {
+            "-ID": "80130",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "132512",
+            "-CumulativeToPar": "-8",
+            "-CumulativeTotal": "280",
+            "-RoundToPar": "-3",
+            "-StartTime": "02:16 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "5",
+            "-RankTied": "True",
+            "-Rank": "3",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Creamer",
+            "-FirstName": "Paula",
+            "-WwgrID": "1380",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "67"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "69"
+              }
+            ]
+          },
+          {
+            "-ID": "88105",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "77630",
+            "-CumulativeToPar": "-6",
+            "-CumulativeTotal": "282",
+            "-RoundToPar": "-1",
+            "-StartTime": "02:24 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "5",
+            "-RankTied": "True",
+            "-Rank": "6",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lewis",
+            "-FirstName": "Stacy",
+            "-WwgrID": "2643",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "80141",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "77630",
+            "-CumulativeToPar": "-6",
+            "-CumulativeTotal": "282",
+            "-RoundToPar": "-1",
+            "-StartTime": "02:16 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "5",
+            "-RankTied": "True",
+            "-Rank": "6",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Meena",
+            "-WwgrID": "602",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "68"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "88108",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "53840",
+            "-CumulativeToPar": "-5",
+            "-CumulativeTotal": "283",
+            "-RoundToPar": "-1",
+            "-StartTime": "02:08 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "8",
+            "-IsAmateur": "False",
+            "-Country": "JPN",
+            "-LastName": "Miyazato",
+            "-FirstName": "Mika",
+            "-WwgrID": "776",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "68"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "80822",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "53840",
+            "-CumulativeToPar": "-5",
+            "-CumulativeTotal": "283",
+            "-RoundToPar": "-1",
+            "-StartTime": "01:52 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "8",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Hjorth",
+            "-FirstName": "Maria",
+            "-WwgrID": "203",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "88114",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "53840",
+            "-CumulativeToPar": "-5",
+            "-CumulativeTotal": "283",
+            "-RoundToPar": "-1",
+            "-StartTime": "01:44 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "8",
+            "-IsAmateur": "False",
+            "-Country": "ESP",
+            "-LastName": "Munoz",
+            "-FirstName": "Azahara",
+            "-WwgrID": "3288",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "80839",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "53840",
+            "-CumulativeToPar": "-5",
+            "-CumulativeTotal": "283",
+            "-RoundToPar": "-1",
+            "-StartTime": "01:36 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "8",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hurst",
+            "-FirstName": "Pat",
+            "-WwgrID": "236",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "67"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82901",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "42445",
+            "-CumulativeToPar": "-4",
+            "-CumulativeTotal": "284",
+            "-RoundToPar": "-1",
+            "-StartTime": "01:20 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "16",
+            "-RankTied": "True",
+            "-Rank": "12",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Yang",
+            "-FirstName": "Amy",
+            "-WwgrID": "2418",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82850",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "42445",
+            "-CumulativeToPar": "-4",
+            "-CumulativeTotal": "284",
+            "-RoundToPar": "0",
+            "-StartTime": "01:52 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "12",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kim",
+            "-FirstName": "I.K.",
+            "-WwgrID": "434",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "69"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "80223",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "-2",
+            "-StartTime": "12:32 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Bowie Young",
+            "-FirstName": "Heather",
+            "-WwgrID": "1248",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "80851",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "-2",
+            "-StartTime": "12:24 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "TWN",
+            "-LastName": "Hung",
+            "-FirstName": "Amy",
+            "-WwgrID": "232",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "82866",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "0",
+            "-StartTime": "01:28 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "16",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Park",
+            "-FirstName": "Inbee",
+            "-WwgrID": "975",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "82813",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "1",
+            "-StartTime": "02:08 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Futcher",
+            "-FirstName": "Katie",
+            "-WwgrID": "40",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "68"
+              },
+              {
+                "-ID": "3",
+                "-Score": "69"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82892",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "3",
+            "-StartTime": "02:32 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "False",
+            "-StartRank": "4",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Park",
+            "-FirstName": "Hee Young",
+            "-WwgrID": "970",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "88158",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "33765",
+            "-CumulativeToPar": "-3",
+            "-CumulativeTotal": "285",
+            "-RoundToPar": "5",
+            "-StartTime": "02:40 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "2",
+            "-RankTied": "True",
+            "-Rank": "14",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "LaCrosse",
+            "-FirstName": "Cindy",
+            "-WwgrID": "3535",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "69"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "80142",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "26795",
+            "-CumulativeToPar": "-2",
+            "-CumulativeTotal": "286",
+            "-RoundToPar": "-3",
+            "-StartTime": "11:44 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "20",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lincicome",
+            "-FirstName": "Brittany",
+            "-WwgrID": "642",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "69"
+              }
+            ]
+          },
+          {
+            "-ID": "82836",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "26795",
+            "-CumulativeToPar": "-2",
+            "-CumulativeTotal": "286",
+            "-RoundToPar": "-3",
+            "-StartTime": "11:28 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "20",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Yoo",
+            "-FirstName": "Sun Young",
+            "-WwgrID": "2000",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "69"
+              }
+            ]
+          },
+          {
+            "-ID": "82858",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "26795",
+            "-CumulativeToPar": "-2",
+            "-CumulativeTotal": "286",
+            "-RoundToPar": "-1",
+            "-StartTime": "12:40 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "20",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Mackenzie",
+            "-FirstName": "Paige",
+            "-WwgrID": "2202",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82313",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "26795",
+            "-CumulativeToPar": "-2",
+            "-CumulativeTotal": "286",
+            "-RoundToPar": "0",
+            "-StartTime": "01:12 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "21",
+            "-RankTied": "True",
+            "-Rank": "20",
+            "-IsAmateur": "False",
+            "-Country": "AUS",
+            "-LastName": "Webb",
+            "-FirstName": "Karrie",
+            "-WwgrID": "1888",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "81127",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "26795",
+            "-CumulativeToPar": "-2",
+            "-CumulativeTotal": "286",
+            "-RoundToPar": "1",
+            "-StartTime": "01:28 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "16",
+            "-RankTied": "True",
+            "-Rank": "20",
+            "-IsAmateur": "False",
+            "-Country": "TWN",
+            "-LastName": "Kung",
+            "-FirstName": "Candie",
+            "-WwgrID": "535",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "88109",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "22162",
+            "-CumulativeToPar": "-1",
+            "-CumulativeTotal": "287",
+            "-RoundToPar": "-2",
+            "-StartTime": "11:20 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "25",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Nordqvist",
+            "-FirstName": "Anna",
+            "-WwgrID": "2377",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "80831",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "22162",
+            "-CumulativeToPar": "-1",
+            "-CumulativeTotal": "287",
+            "-RoundToPar": "-2",
+            "-StartTime": "11:12 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "25",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Han",
+            "-FirstName": "Hee-Won",
+            "-WwgrID": "108",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "88110",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "22162",
+            "-CumulativeToPar": "-1",
+            "-CumulativeTotal": "287",
+            "-RoundToPar": "1",
+            "-StartTime": "01:12 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "21",
+            "-RankTied": "True",
+            "-Rank": "25",
+            "-IsAmateur": "False",
+            "-Country": "THA",
+            "-LastName": "Phatlum",
+            "-FirstName": "Pornanong",
+            "-WwgrID": "2277",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "81128",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "22162",
+            "-CumulativeToPar": "-1",
+            "-CumulativeTotal": "287",
+            "-RoundToPar": "1",
+            "-StartTime": "12:56 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "21",
+            "-RankTied": "True",
+            "-Rank": "25",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kang",
+            "-FirstName": "Jimin",
+            "-WwgrID": "361",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "88271",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "22162",
+            "-CumulativeToPar": "-1",
+            "-CumulativeTotal": "287",
+            "-RoundToPar": "2",
+            "-StartTime": "01:20 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "16",
+            "-RankTied": "True",
+            "-Rank": "25",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Joh",
+            "-FirstName": "Tiffany",
+            "-WwgrID": "2420",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "88275",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "18531",
+            "-CumulativeToPar": "0",
+            "-CumulativeTotal": "288",
+            "-RoundToPar": "0",
+            "-StartTime": "12:00 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "36",
+            "-RankTied": "True",
+            "-Rank": "30",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Song",
+            "-FirstName": "Jennifer",
+            "-WwgrID": "2568",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "81810",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "18531",
+            "-CumulativeToPar": "0",
+            "-CumulativeTotal": "288",
+            "-RoundToPar": "1",
+            "-StartTime": "12:16 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "30",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Rankin",
+            "-FirstName": "Reilley",
+            "-WwgrID": "1058",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "68"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "81901",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "18531",
+            "-CumulativeToPar": "0",
+            "-CumulativeTotal": "288",
+            "-RoundToPar": "2",
+            "-StartTime": "12:48 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "21",
+            "-RankTied": "True",
+            "-Rank": "30",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Stanford",
+            "-FirstName": "Angela",
+            "-WwgrID": "1687",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "68"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82898",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "18531",
+            "-CumulativeToPar": "0",
+            "-CumulativeTotal": "288",
+            "-RoundToPar": "4",
+            "-StartTime": "01:44 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "9",
+            "-RankTied": "True",
+            "-Rank": "30",
+            "-IsAmateur": "False",
+            "-Country": "JPN",
+            "-LastName": "Ueda",
+            "-FirstName": "Momoko",
+            "-WwgrID": "1836",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "81907",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "-7",
+            "-StartTime": "09:04 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "76",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "ENG",
+            "-LastName": "Stupples",
+            "-FirstName": "Karen",
+            "-WwgrID": "1709",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              },
+              {
+                "-ID": "3",
+                "-Score": "78"
+              },
+              {
+                "-ID": "4",
+                "-Score": "65"
+              }
+            ]
+          },
+          {
+            "-ID": "87945",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "-4",
+            "-StartTime": "09:44 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Hur",
+            "-FirstName": "M.J.",
+            "-WwgrID": "2546",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              },
+              {
+                "-ID": "3",
+                "-Score": "76"
+              },
+              {
+                "-ID": "4",
+                "-Score": "68"
+              }
+            ]
+          },
+          {
+            "-ID": "88111",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "-2",
+            "-StartTime": "10:48 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Shin",
+            "-FirstName": "Jiyai",
+            "-WwgrID": "1615",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "81603",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "-1",
+            "-StartTime": "11:04 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "50",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Pak",
+            "-FirstName": "Se Ri",
+            "-WwgrID": "957",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "68"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "80903",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "0",
+            "-StartTime": "11:20 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Inkster",
+            "-FirstName": "Juli",
+            "-WwgrID": "261",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "81313",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "0",
+            "-StartTime": "11:04 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "SCT",
+            "-LastName": "Matthew",
+            "-FirstName": "Catriona",
+            "-WwgrID": "724",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "82739",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "1",
+            "-StartTime": "11:52 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "36",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Redman",
+            "-FirstName": "Michele",
+            "-WwgrID": "1068",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "87953",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "2",
+            "-StartTime": "12:40 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kim",
+            "-FirstName": "Yoo Kyeong",
+            "-WwgrID": "3595",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "93382",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "14232",
+            "-CumulativeToPar": "1",
+            "-CumulativeTotal": "289",
+            "-RoundToPar": "2",
+            "-StartTime": "12:32 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "34",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Seo",
+            "-FirstName": "Hee Kyung",
+            "-WwgrID": "1718",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82888",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "-2",
+            "-StartTime": "10:08 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "63",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Leon",
+            "-FirstName": "Taylor",
+            "-WwgrID": "628",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "82847",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "-1",
+            "-StartTime": "10:32 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Ji",
+            "-FirstName": "Eun-Hee",
+            "-WwgrID": "311",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "87846",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "-1",
+            "-StartTime": "10:24 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Kim",
+            "-FirstName": "Mindy",
+            "-WwgrID": "2885",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "81104",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "0",
+            "-StartTime": "10:48 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "50",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kim",
+            "-FirstName": "Mi Hyun",
+            "-WwgrID": "450",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "67"
+              },
+              {
+                "-ID": "3",
+                "-Score": "76"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "88406",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "1",
+            "-StartTime": "11:28 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Johnson",
+            "-FirstName": "Jennifer",
+            "-WwgrID": "3599",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82878",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "1",
+            "-StartTime": "11:12 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Choi",
+            "-FirstName": "Na Yeon",
+            "-WwgrID": "1336",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82830",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "10285",
+            "-CumulativeToPar": "2",
+            "-CumulativeTotal": "290",
+            "-RoundToPar": "3",
+            "-StartTime": "12:24 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "43",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Sjodin",
+            "-FirstName": "Karin",
+            "-WwgrID": "1637",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "82874",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "-2",
+            "-StartTime": "09:20 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "CHN",
+            "-LastName": "Feng",
+            "-FirstName": "Shanshan",
+            "-WwgrID": "1518",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "66"
+              },
+              {
+                "-ID": "3",
+                "-Score": "80"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "82859",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "-1",
+            "-StartTime": "10:08 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "63",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "McPherson",
+            "-FirstName": "Kristy",
+            "-WwgrID": "744",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82817",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "-1",
+            "-StartTime": "09:52 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "63",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "AUS",
+            "-LastName": "Smith",
+            "-FirstName": "Sarah Jane",
+            "-WwgrID": "399",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82814",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "0",
+            "-StartTime": "10:40 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "PRY",
+            "-LastName": "Granada",
+            "-FirstName": "Julieta",
+            "-WwgrID": "2058",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "82886",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "0",
+            "-StartTime": "10:32 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "AUS",
+            "-LastName": "Kemp",
+            "-FirstName": "Sarah",
+            "-WwgrID": "397",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "88113",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "8138",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "1",
+            "-StartTime": "10:56 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "50",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "False",
+            "-Country": "ESP",
+            "-LastName": "Recari",
+            "-FirstName": "Beatriz",
+            "-WwgrID": "1067",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "93425",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "291",
+            "-RoundToPar": "3",
+            "-StartTime": "12:00 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "36",
+            "-RankTied": "True",
+            "-Rank": "50",
+            "-IsAmateur": "True",
+            "-Country": "USA",
+            "-LastName": "Kang",
+            "-FirstName": "Danielle",
+            "-WwgrID": "3003",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "81327",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "-4",
+            "-StartTime": "09:12 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "76",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "WAL",
+            "-LastName": "Morgan",
+            "-FirstName": "Becky",
+            "-WwgrID": "796",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "78"
+              },
+              {
+                "-ID": "4",
+                "-Score": "68"
+              }
+            ]
+          },
+          {
+            "-ID": "98028",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "-2",
+            "-StartTime": "09:12 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "74",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "NLD",
+            "-LastName": "Boeljon",
+            "-FirstName": "Christel",
+            "-WwgrID": "1233",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "77"
+              },
+              {
+                "-ID": "4",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "80712",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "-1",
+            "-StartTime": "09:44 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Gustafson",
+            "-FirstName": "Sophie",
+            "-WwgrID": "92",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "76"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "88214",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "-1",
+            "-StartTime": "09:36 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "O'Toole",
+            "-FirstName": "Ryann",
+            "-WwgrID": "3581",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              },
+              {
+                "-ID": "3",
+                "-Score": "76"
+              },
+              {
+                "-ID": "4",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "88253",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "1",
+            "-StartTime": "10:24 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "NLD",
+            "-LastName": "Schreefel",
+            "-FirstName": "Dewi Claire",
+            "-WwgrID": "1580",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "81219",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "1",
+            "-StartTime": "10:16 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lindley",
+            "-FirstName": "Leta",
+            "-WwgrID": "645",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "81102",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "2",
+            "-StartTime": "10:56 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "50",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Kane",
+            "-FirstName": "Lorie",
+            "-WwgrID": "355",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82630",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "4",
+            "-StartTime": "12:08 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "36",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "GBR",
+            "-LastName": "Davies",
+            "-FirstName": "Laura",
+            "-WwgrID": "1421",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "70"
+              },
+              {
+                "-ID": "4",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "87818",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "5",
+            "-StartTime": "12:48 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Jeehae",
+            "-WwgrID": "2865",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "69"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "81635",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "5",
+            "-StartTime": "12:16 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Prammanasudh",
+            "-FirstName": "Stacy",
+            "-WwgrID": "1042",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "68"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "74"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "80850",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "6249",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "292",
+            "-RoundToPar": "6",
+            "-StartTime": "12:56 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "21",
+            "-RankTied": "True",
+            "-Rank": "57",
+            "-IsAmateur": "False",
+            "-Country": "AUS",
+            "-LastName": "Hull",
+            "-FirstName": "Katherine",
+            "-WwgrID": "230",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "70"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "88178",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "5196",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "293",
+            "-RoundToPar": "0",
+            "-StartTime": "09:28 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "68",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lee",
+            "-FirstName": "Jennie",
+            "-WwgrID": "581",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              },
+              {
+                "-ID": "3",
+                "-Score": "78"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "88308",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "5196",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "293",
+            "-RoundToPar": "0",
+            "-StartTime": "09:28 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "68",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Shin",
+            "-FirstName": "Jenny",
+            "-WwgrID": "3279",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              },
+              {
+                "-ID": "3",
+                "-Score": "79"
+              },
+              {
+                "-ID": "4",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "80727",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "5196",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "293",
+            "-RoundToPar": "5",
+            "-StartTime": "11:52 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "36",
+            "-RankTied": "True",
+            "-Rank": "68",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Gulbis",
+            "-FirstName": "Natalie",
+            "-WwgrID": "90",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "72"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82804",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "5196",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "293",
+            "-RoundToPar": "6",
+            "-StartTime": "12:08 PM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "26",
+            "-RankTied": "True",
+            "-Rank": "68",
+            "-IsAmateur": "False",
+            "-Country": "FIN",
+            "-LastName": "Blomqvist",
+            "-FirstName": "Minea",
+            "-WwgrID": "1228",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "69"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "77"
+              },
+              {
+                "-ID": "4",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "82803",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4883",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "294",
+            "-RoundToPar": "1",
+            "-StartTime": "09:52 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "72",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Bae",
+            "-FirstName": "Kyeong",
+            "-WwgrID": "1169",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "88106",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4883",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "294",
+            "-RoundToPar": "3",
+            "-StartTime": "10:16 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "True",
+            "-Rank": "72",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Wie",
+            "-FirstName": "Michelle",
+            "-WwgrID": "1913",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "75"
+              },
+              {
+                "-ID": "4",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "87949",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4883",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "294",
+            "-RoundToPar": "5",
+            "-StartTime": "11:44 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "41",
+            "-RankTied": "True",
+            "-Rank": "72",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kang",
+            "-FirstName": "Haeji",
+            "-WwgrID": "2781",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              },
+              {
+                "-ID": "3",
+                "-Score": "71"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "81955",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4729",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "295",
+            "-RoundToPar": "1",
+            "-StartTime": "09:20 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "74",
+            "-RankTied": "True",
+            "-Rank": "75",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Steinhauer",
+            "-FirstName": "Sherri",
+            "-WwgrID": "1692",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "76"
+              },
+              {
+                "-ID": "4",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "80304",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4729",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "295",
+            "-RoundToPar": "2",
+            "-StartTime": "09:36 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "66",
+            "-RankTied": "True",
+            "-Rank": "75",
+            "-IsAmateur": "False",
+            "-Country": "ITA",
+            "-LastName": "Cavalleri",
+            "-FirstName": "Silvia",
+            "-WwgrID": "1296",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              },
+              {
+                "-ID": "3",
+                "-Score": "77"
+              },
+              {
+                "-ID": "4",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "81624",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4641",
+            "-CumulativeToPar": "8",
+            "-CumulativeTotal": "296",
+            "-RoundToPar": "5",
+            "-StartTime": "10:40 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "True",
+            "-StartRank": "54",
+            "-RankTied": "False",
+            "-Rank": "77",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Park",
+            "-FirstName": "Grace",
+            "-WwgrID": "967",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              },
+              {
+                "-ID": "3",
+                "-Score": "73"
+              },
+              {
+                "-ID": "4",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "80401",
+            "-RoundStatus": "FIN",
+            "-TournamentStatus": "ACT",
+            "-Money": "4582",
+            "-CumulativeToPar": "13",
+            "-CumulativeTotal": "301",
+            "-RoundToPar": "4",
+            "-StartTime": "09:04 AM",
+            "-StartTee": "1",
+            "-Thru": "18",
+            "-StartRankTied": "False",
+            "-StartRank": "78",
+            "-RankTied": "False",
+            "-Rank": "78",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "D'Alessio",
+            "-FirstName": "Diana",
+            "-WwgrID": "1411",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "68"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              },
+              {
+                "-ID": "3",
+                "-Score": "80"
+              },
+              {
+                "-ID": "4",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "93476",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "JPN",
+            "-LastName": "Arimura",
+            "-FirstName": "Chie",
+            "-WwgrID": "1141",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "69"
+              }
+            ]
+          },
+          {
+            "-ID": "80215",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Bader",
+            "-FirstName": "Beth",
+            "-WwgrID": "1165",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "87987",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Choi",
+            "-FirstName": "Chella",
+            "-WwgrID": "3172",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "80407",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Dunn",
+            "-FirstName": "Moira",
+            "-WwgrID": "1465",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "82842",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Fankhauser",
+            "-FirstName": "Mollie",
+            "-WwgrID": "1510",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "82812",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Francella",
+            "-FirstName": "Meaghan",
+            "-WwgrID": "6",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82851",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kim",
+            "-FirstName": "Song-Hee",
+            "-WwgrID": "461",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "81112",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Kim",
+            "-FirstName": "Christina",
+            "-WwgrID": "416",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "88399",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Korda",
+            "-FirstName": "Jessica",
+            "-WwgrID": "2653",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "98070",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "JPN",
+            "-LastName": "Nomura",
+            "-FirstName": "Haru",
+            "-WwgrID": "3746",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82864",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Pak",
+            "-FirstName": "Jin Young",
+            "-WwgrID": "2335",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "80144",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Sharp",
+            "-FirstName": "Alena",
+            "-WwgrID": "1600",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "80149",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "3",
+            "-CumulativeTotal": "147",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "79",
+            "-RankTied": "True",
+            "-Rank": "79",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Tamulis",
+            "-FirstName": "Kris",
+            "-WwgrID": "1768",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "80110",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Ahn",
+            "-FirstName": "Shi Hyun",
+            "-WwgrID": "1108",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "71"
+              }
+            ]
+          },
+          {
+            "-ID": "82811",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Fouch",
+            "-FirstName": "Allison",
+            "-WwgrID": "3",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "82882",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hage",
+            "-FirstName": "Nicole",
+            "-WwgrID": "94",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "82689",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hennessy",
+            "-FirstName": "Julie",
+            "-WwgrID": "173",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "87998",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hurst",
+            "-FirstName": "Vicky",
+            "-WwgrID": "2606",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "71"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82603",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Ilhee",
+            "-WwgrID": "579",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82820",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Seon Hwa",
+            "-WwgrID": "616",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "82821",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Jee Young",
+            "-WwgrID": "591",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88236",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lewis",
+            "-FirstName": "Amelia",
+            "-WwgrID": "3522",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "82824",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "JPN",
+            "-LastName": "Miyazato",
+            "-FirstName": "Ai",
+            "-WwgrID": "774",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "82862",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Oh",
+            "-FirstName": "Ji Young",
+            "-WwgrID": "907",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "88002",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Oh",
+            "-FirstName": "Angela",
+            "-WwgrID": "3184",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "81905",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "ITA",
+            "-LastName": "Sergas",
+            "-FirstName": "Giulia",
+            "-WwgrID": "1595",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "73"
+              }
+            ]
+          },
+          {
+            "-ID": "87533",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Shepley",
+            "-FirstName": "Jessica",
+            "-WwgrID": "2361",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "72"
+              }
+            ]
+          },
+          {
+            "-ID": "88440",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Sherlock",
+            "-FirstName": "Stephanie",
+            "-WwgrID": "2665",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "88276",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "4",
+            "-CumulativeTotal": "148",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "92",
+            "-RankTied": "True",
+            "-Rank": "92",
+            "-IsAmateur": "False",
+            "-Country": "COL",
+            "-LastName": "Uribe",
+            "-FirstName": "Mariajo",
+            "-WwgrID": "2636",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "82742",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Ammaccapane",
+            "-FirstName": "Dina",
+            "-WwgrID": "1124",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "80211",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Bunch",
+            "-FirstName": "Ashli",
+            "-WwgrID": "1267",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82873",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "DEU",
+            "-LastName": "Gal",
+            "-FirstName": "Sandra",
+            "-WwgrID": "2637",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "81401",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hart",
+            "-FirstName": "Marcy",
+            "-WwgrID": "137",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "82884",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Jeong",
+            "-FirstName": "Jimin",
+            "-WwgrID": "2323",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "72"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82760",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Song",
+            "-FirstName": "Aree",
+            "-WwgrID": "1659",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88025",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "5",
+            "-CumulativeTotal": "149",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "108",
+            "-RankTied": "True",
+            "-Rank": "108",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Suh",
+            "-FirstName": "Jenny",
+            "-WwgrID": "3176",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88268",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "150",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "115",
+            "-RankTied": "True",
+            "-Rank": "115",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Blumenherst",
+            "-FirstName": "Amanda",
+            "-WwgrID": "2578",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "88213",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "150",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "115",
+            "-RankTied": "True",
+            "-Rank": "115",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Lindberg",
+            "-FirstName": "Pernilla",
+            "-WwgrID": "643",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "88375",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "150",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "115",
+            "-RankTied": "True",
+            "-Rank": "115",
+            "-IsAmateur": "False",
+            "-Country": "FRA",
+            "-LastName": "Nocera",
+            "-FirstName": "Gwladys",
+            "-WwgrID": "886",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "80"
+              },
+              {
+                "-ID": "2",
+                "-Score": "70"
+              }
+            ]
+          },
+          {
+            "-ID": "87765",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "6",
+            "-CumulativeTotal": "150",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "115",
+            "-RankTied": "True",
+            "-Rank": "115",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Piller",
+            "-FirstName": "Gerina",
+            "-WwgrID": "2553",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88281",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Carter",
+            "-FirstName": "Dori",
+            "-WwgrID": "2196",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "81605",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Diaz",
+            "-FirstName": "Laura",
+            "-WwgrID": "1436",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88260",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Harigae",
+            "-FirstName": "Mina",
+            "-WwgrID": "3001",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "81125",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Louden",
+            "-FirstName": "Stephanie",
+            "-WwgrID": "659",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "87531",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Meldrum",
+            "-FirstName": "Lisa",
+            "-WwgrID": "748",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82867",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Park",
+            "-FirstName": "Jane",
+            "-WwgrID": "976",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "87712",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "CAN",
+            "-LastName": "Richdale",
+            "-FirstName": "Samantha",
+            "-WwgrID": "2587",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "81833",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "PHL",
+            "-LastName": "Rosales",
+            "-FirstName": "Jennifer",
+            "-WwgrID": "1099",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "87761",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Walshe",
+            "-FirstName": "Alison",
+            "-WwgrID": "2503",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "82306",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "151",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "119",
+            "-RankTied": "True",
+            "-Rank": "119",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Ward",
+            "-FirstName": "Wendy",
+            "-WwgrID": "1882",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "73"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "87567",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "8",
+            "-CumulativeTotal": "152",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "129",
+            "-RankTied": "True",
+            "-Rank": "129",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Bordner",
+            "-FirstName": "Danah",
+            "-WwgrID": "2336",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "80408",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "8",
+            "-CumulativeTotal": "152",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "129",
+            "-RankTied": "True",
+            "-Rank": "129",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "DeLuca",
+            "-FirstName": "Annette",
+            "-WwgrID": "1429",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82819",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "8",
+            "-CumulativeTotal": "152",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "129",
+            "-RankTied": "True",
+            "-Rank": "129",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Lang",
+            "-FirstName": "Brittany",
+            "-WwgrID": "562",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "53437",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "8",
+            "-CumulativeTotal": "152",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "129",
+            "-RankTied": "True",
+            "-Rank": "129",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Thompson",
+            "-FirstName": "Lexi",
+            "-WwgrID": "3007",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "74"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "82694",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "9",
+            "-CumulativeTotal": "153",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "133",
+            "-RankTied": "True",
+            "-Rank": "133",
+            "-IsAmateur": "False",
+            "-Country": "WAL",
+            "-LastName": "Davies",
+            "-FirstName": "Karen",
+            "-WwgrID": "1420",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "75"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "81204",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "9",
+            "-CumulativeTotal": "153",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "133",
+            "-RankTied": "True",
+            "-Rank": "133",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Lee",
+            "-FirstName": "Sarah",
+            "-WwgrID": "599",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "76"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "81337",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "9",
+            "-CumulativeTotal": "153",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "133",
+            "-RankTied": "True",
+            "-Rank": "133",
+            "-IsAmateur": "False",
+            "-Country": "SCT",
+            "-LastName": "Moodie",
+            "-FirstName": "Janice",
+            "-WwgrID": "786",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "81322",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "10",
+            "-CumulativeTotal": "154",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "136",
+            "-RankTied": "True",
+            "-Rank": "136",
+            "-IsAmateur": "False",
+            "-Country": "SCT",
+            "-LastName": "McKay",
+            "-FirstName": "Mhairi",
+            "-WwgrID": "740",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "80"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "93340",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "10",
+            "-CumulativeTotal": "154",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "136",
+            "-RankTied": "True",
+            "-Rank": "136",
+            "-IsAmateur": "False",
+            "-Country": "ESP",
+            "-LastName": "Mozo",
+            "-FirstName": "Belen",
+            "-WwgrID": "2283",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "88067",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "10",
+            "-CumulativeTotal": "154",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "136",
+            "-RankTied": "True",
+            "-Rank": "136",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Reynolds",
+            "-FirstName": "Jean",
+            "-WwgrID": "3165",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82348",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "10",
+            "-CumulativeTotal": "154",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "136",
+            "-RankTied": "True",
+            "-Rank": "136",
+            "-IsAmateur": "False",
+            "-Country": "AUS",
+            "-LastName": "Wright",
+            "-FirstName": "Lindsey",
+            "-WwgrID": "1953",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "76"
+              }
+            ]
+          },
+          {
+            "-ID": "88004",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "11",
+            "-CumulativeTotal": "155",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "140",
+            "-RankTied": "True",
+            "-Rank": "140",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Brown",
+            "-FirstName": "Sara",
+            "-WwgrID": "3230",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "82880",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "11",
+            "-CumulativeTotal": "155",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "140",
+            "-RankTied": "True",
+            "-Rank": "140",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Friberg",
+            "-FirstName": "Louise",
+            "-WwgrID": "13",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "81"
+              },
+              {
+                "-ID": "2",
+                "-Score": "74"
+              }
+            ]
+          },
+          {
+            "-ID": "80710",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "11",
+            "-CumulativeTotal": "155",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "140",
+            "-RankTied": "True",
+            "-Rank": "140",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Ginter",
+            "-FirstName": "Sue",
+            "-WwgrID": "56",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "88207",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "11",
+            "-CumulativeTotal": "155",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "140",
+            "-RankTied": "True",
+            "-Rank": "140",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Song",
+            "-FirstName": "Christine",
+            "-WwgrID": "3533",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "77"
+              }
+            ]
+          },
+          {
+            "-ID": "80430",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "12",
+            "-CumulativeTotal": "156",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "144",
+            "-RankTied": "True",
+            "-Rank": "144",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "DePaulo",
+            "-FirstName": "Lisa",
+            "-WwgrID": "1431",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "81"
+              },
+              {
+                "-ID": "2",
+                "-Score": "75"
+              }
+            ]
+          },
+          {
+            "-ID": "81131",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "12",
+            "-CumulativeTotal": "156",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "144",
+            "-RankTied": "True",
+            "-Rank": "144",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Kim",
+            "-FirstName": "Birdie",
+            "-WwgrID": "412",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "78"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "82832",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "12",
+            "-CumulativeTotal": "156",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "True",
+            "-StartRank": "144",
+            "-RankTied": "True",
+            "-Rank": "144",
+            "-IsAmateur": "False",
+            "-Country": "SWE",
+            "-LastName": "Stahle",
+            "-FirstName": "Louise",
+            "-WwgrID": "1686",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "77"
+              },
+              {
+                "-ID": "2",
+                "-Score": "79"
+              }
+            ]
+          },
+          {
+            "-ID": "82860",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "13",
+            "-CumulativeTotal": "157",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "False",
+            "-StartRank": "147",
+            "-RankTied": "False",
+            "-Rank": "147",
+            "-IsAmateur": "False",
+            "-Country": "KOR",
+            "-LastName": "Min",
+            "-FirstName": "Na On",
+            "-WwgrID": "2234",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "79"
+              },
+              {
+                "-ID": "2",
+                "-Score": "78"
+              }
+            ]
+          },
+          {
+            "-ID": "81121",
+            "-TournamentStatus": "CUT",
+            "-Money": "0",
+            "-CumulativeToPar": "16",
+            "-CumulativeTotal": "160",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "False",
+            "-StartRank": "148",
+            "-RankTied": "False",
+            "-Rank": "148",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Koyama",
+            "-FirstName": "Debbi",
+            "-WwgrID": "516",
+            "Round": [
+              {
+                "-ID": "1",
+                "-Score": "81"
+              },
+              {
+                "-ID": "2",
+                "-Score": "79"
+              }
+            ]
+          },
+          {
+            "-ID": "82881",
+            "-TournamentStatus": "WD",
+            "-Money": "0",
+            "-CumulativeToPar": "7",
+            "-CumulativeTotal": "79",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "False",
+            "-StartRank": "149",
+            "-RankTied": "False",
+            "-Rank": "149",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Grzebien",
+            "-FirstName": "Anna",
+            "-WwgrID": "2490",
+            "Round": {
+              "-ID": "1",
+              "-Score": "79"
+            }
+          },
+          {
+            "-ID": "80135",
+            "-TournamentStatus": "WD",
+            "-Money": "0",
+            "-CumulativeToPar": "9",
+            "-CumulativeTotal": "81",
+            "-RoundToPar": "0",
+            "-StartTee": "0",
+            "-Thru": "0",
+            "-StartRankTied": "False",
+            "-StartRank": "150",
+            "-RankTied": "False",
+            "-Rank": "150",
+            "-IsAmateur": "False",
+            "-Country": "USA",
+            "-LastName": "Hanna",
+            "-FirstName": "Allison",
+            "-WwgrID": "119",
+            "Round": {
+              "-ID": "1",
+              "-Score": "81"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

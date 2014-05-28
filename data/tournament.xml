@@ -1,0 +1,11 @@
+
+<GolfDataFeed Type="Tournaments" Timestamp="3/21/2012 9:17:04 PM">
+    <Tournament ID="27828" Name="WEGMANS LPGA CHAMPIONSHIP" Tour="LPGA" StartDate="6/23/2011" EndDate="6/26/2011" Format="Stroke Play" Rounds="4" Courses="1" Players="150" HasPlayoff="False" Status="Official">      
+        <Round ID="1" StartDate="6/23/2011" EndDate="6/23/2011" Status="Official"></Round>        
+        <Round ID="2" StartDate="6/24/2011" EndDate="6/24/2011" Status="Official">
+		<Cut ID="1" Size="70" />            
+        </Round>        
+        <Round ID="3" StartDate="6/25/2011" EndDate="6/25/2011" Status="Official"></Round>        
+        <Round ID="4" StartDate="6/26/2011" EndDate="6/26/2011" Status="Official"></Round>        
+    </Tournament>
+</GolfDataFeed>

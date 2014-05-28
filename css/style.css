@@ -1,0 +1,308 @@
+
+/******************
+    GENERAL   
+ *****************/
+
+/*
+    page headers
+ */
+header h1 {
+    font-size: 10px;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.noMargins {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+/*
+  SPACING BETWEEN CONTENT AND HEADER
+*/
+section article {
+    margin-top: 10px;
+}
+
+#scorecard article {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#scorecarddetail article {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#settings article {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#course article {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+.spacing {
+    padding-top: 20px;
+    text-align: center;
+}
+
+/*****************
+    SETTINGS POPUP 
+******************/
+.popupMessage {
+    max-width: 300px;
+}
+.buttonRight {
+    text-align: right;
+}
+
+/***************
+    PLAYERS PAGE
+****************/
+
+.listHeaderXML {
+    padding: 20px 0px 0px 0px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.listHeaderJSON {
+    padding: 40px 0px 0px 0px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.insetBug {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.infoMsg {
+    padding: 10px 0px 30px 12px;
+
+}
+
+
+/* bold the legend selected */
+form fieldset legend {
+    font-weight: bold;
+    font-size:  larger;
+}
+
+#leaderboardXML li a p {
+    font-size: larger;
+    font-weight: bold;
+}
+
+img.fullscreen {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.myListFrame {
+    padding: 15px 0px 0px 0px;
+}
+
+/*
+    TOURNAMENTS PAGE   
+*/
+.oneColumn {
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin-left: 0px;
+}
+.twoColumn {
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin-left: 0px;
+}
+
+.gridHeader {
+    font-weight: bold;
+    font-size: larger;
+}
+
+/*
+    JQM GRID
+ */
+
+/* generic listview */
+.jqmList a {
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.jqmList li {
+    height: 75px;
+}
+
+.jqmList-smaller a {
+    font-size: 10px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.jqmList-smaller li {
+    height: 35px;
+}
+
+.jqmList-small a {
+    font-size: 10px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.jqmList-small li {
+    height: 45px;
+}
+
+.jqmList-regular a {
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.jqmList-regular li {
+    height: 75px;
+}
+
+.jqmList-larger a {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+/*center the text in listview*/
+.jqmList-larger h1 {
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+/* generic grid */
+.jqmGrid button {
+    height:30px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 70%;
+}
+
+/*
+  styling text grid columns, keep one line  
+    */
+.jqmGrid div.ui-bar {
+    min-width:150px;
+    height:30px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 2px;
+    font-family: Broadway;
+    font-weight: bold;
+    font-size: 70%;
+    text-align: left;
+    line-height: 30px;  
+}
+
+#updPairingsXML .jqmGrid button {
+    height:40px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 2px;
+    font-size: 70%;
+    text-align: left;
+}
+
+/*
+  styling text grid columns, keep one line  
+    */
+#updPairingsXML .jqmGrid div.ui-bar {
+    padding: 0px 0px 0px 2px;
+    height:40px;
+    min-width:150px;
+    font-family: Broadway;
+    font-weight: bold;
+    text-align: left;
+    line-height: 40px;  
+}
+
+/*
+ POSTER STYLES   
+ */
+.posterColumn1 {
+    /*
+    border: solid; 
+    border-color: red;
+      */  
+    min-width:100px; 
+    max-width:122px; 
+    float: left; 
+    height: 179px;
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.posterColumn2 {
+    /*
+    border: solid; 
+    border-color: blue; 
+        */
+    overflow: hidden; 
+    min-width: 150px; 
+    height: 154px; 
+    min-height:179px;
+    padding: 10px 0px 0px 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+.posterText {
+    padding: 0px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    text-align:  left;
+    font-size: 100%;
+}
+
+.posterText h3 {
+    padding: 2px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.posterHeaderCenter {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.posterHeaderLeft {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align:  left;
+}
+
+.posterGeneral {
+    font-size: 100%;
+    text-align: left;
+}
+
+.posterGeneral h3 {
+    padding: 4px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.posterGeneral img {
+   height: 124px;
+   width: 100%;
+}
+
+
+.myDebug {
+    border: solid;
+    border-color: red;
+}
+
+.dynamicFontSize {
+}
+
+

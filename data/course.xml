@@ -1,0 +1,44 @@
+
+<GolfDataFeed Type="Courses" Timestamp="3/21/2012 9:19:42 PM">
+    <Tournament ID="27828" Name="WEGMANS LPGA CHAMPIONSHIP">
+        <Course ID="1" Name="LOCUST HILL COUNTRY CLUB" Code="LO" ParFront="35" ParBack="37" ParTotal="72" YardageFront="3083" YardageBack="3451" YardageTotal="6534">
+            
+            <Hole ID="1" Par="4" Yardage="414" />
+            
+            <Hole ID="2" Par="4" Yardage="337" />
+            
+            <Hole ID="3" Par="4" Yardage="384" />
+            
+            <Hole ID="4" Par="5" Yardage="532" />
+            
+            <Hole ID="5" Par="3" Yardage="161" />
+            
+            <Hole ID="6" Par="4" Yardage="439" />
+            
+            <Hole ID="7" Par="3" Yardage="178" />
+            
+            <Hole ID="8" Par="5" Yardage="466" />
+            
+            <Hole ID="9" Par="3" Yardage="172" />
+            
+            <Hole ID="10" Par="4" Yardage="413" />
+            
+            <Hole ID="11" Par="5" Yardage="511" />
+            
+            <Hole ID="12" Par="4" Yardage="361" />
+            
+            <Hole ID="13" Par="4" Yardage="386" />
+            
+            <Hole ID="14" Par="4" Yardage="400" />
+            
+            <Hole ID="15" Par="3" Yardage="150" />
+            
+            <Hole ID="16" Par="4" Yardage="356" />
+            
+            <Hole ID="17" Par="5" Yardage="478" />
+            
+            <Hole ID="18" Par="4" Yardage="396" />
+        
+        </Course>
+    </Tournament>
+</GolfDataFeed>
