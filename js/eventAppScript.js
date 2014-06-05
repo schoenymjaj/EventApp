@@ -672,6 +672,15 @@ $(function () {
                         break;
                     case "./data/tournament.xml":
                         localStorage["TRNXMLDoc"] = xmlText;
+
+                        /*debug statements */
+                        xmlAgain = app.appPropDoc("TRNXMLDoc");
+                        console.log(xmlAgain.documentElement.childNodes[1]);
+                        console.log('childNodes[1]:' + xmlAgain.documentElement.innerHTML);
+                        console.log('childNodes[1]:' + xmlAgain.documentElement.childNodes[1].innerHTML);
+                        console.log('Tag - Round:' + xmlAgain.getElementsByTagName("Round"));
+                        console.log('Node List Length:' + xmlAgain.getElementsByTagName("Round").length);
+
                         break;
                     case "./data/scorecards.xml":
                         localStorage["SCRDXMLDoc"] = xmlText;
