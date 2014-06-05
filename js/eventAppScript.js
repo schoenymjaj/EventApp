@@ -664,6 +664,7 @@ $(function () {
             $.get(filepath, {}, function (xml) {
 
                 xmlText = (new XMLSerializer()).serializeToString(xml);
+                console.log('loaded filepath:' + xmlText.substr(0, 50));
 
                 switch (filepath) {
                     case "./data/leaderboards.xml":
@@ -1068,6 +1069,7 @@ $(function () {
                 hierarchical = true;
             }
 
+            console.log('Root Tag(' + rootTag + '):' + gridConfObj.XMLDoc.getElementsByTagName(rootTag));
 
             output = '<div class="infoMsg">' + gridConfObj.ErrMsg + ' Not Acquired</div>';
             aNodeList = gridConfObj.XMLDoc.getElementsByTagName(rootTag);
@@ -1118,7 +1120,7 @@ $(function () {
                     //take the smaller of the list item threshold and the number of actual items
                     nbrRows = Math.min(aNodeList.length, app.appProp("Config-MaxList-Nbr"));
 
-                    console.log('app.renderJQMGrid - start rows');
+                    console.log('app.renderJQMGrid - start rows - nbr rows =' + nbrRows );
                     //iterate through all the nodes (ROWS)
                     for (var i = 0; i < nbrRows; i++) {
 
