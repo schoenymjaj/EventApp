@@ -663,7 +663,18 @@ $(function () {
 
             $.get(filepath, {}, function (xml) {
 
-                xmlText = (new XMLSerializer()).serializeToString(xml);
+
+                if (typeof xml == "object") {
+                    console.log('its an object');
+                    console.log('$.type:' + $.type(xml))
+                    console.log('object name:' + xml.constructor.name);
+
+                    xmlText = (new XMLSerializer()).serializeToString(xml);
+                } else {
+                    console.log('its a string');
+                    xmlText = xml;
+                }
+
                 console.log('loaded filepath:' + xmlText.substr(0, 50));
 
                 switch (filepath) {
@@ -675,11 +686,13 @@ $(function () {
 
                         /*debug statements */
                         xmlAgain = app.appPropDoc("TRNXMLDoc");
-                        console.log(xmlAgain.documentElement.childNodes[1]);
-                        console.log('childNodes[1]:' + xmlAgain.documentElement.innerHTML);
-                        console.log('childNodes[1]:' + xmlAgain.documentElement.childNodes[1].innerHTML);
-                        console.log('Tag - Round:' + xmlAgain.getElementsByTagName("Round"));
-                        console.log('Node List Length:' + xmlAgain.getElementsByTagName("Round").length);
+                        console.log('$.type:' + $.type(xmlAgain))
+                        console.log('object name:' + xmlAgain.constructor.name);
+                        console.log('RAW XML FROM $.GET INNERHTML:' + xmlAgain.documentElement.innerHTML);
+                        console.log('RAW XML FROM $.GET HTML:' + xmlAgain.html);
+                        console.log('Object JQuery StartDate' + $("Tournament[ID='" + 27828 + "'] Round[ID='" + 3 + "']", xmlAgain).attr("StartDate"));
+                        console.log('LocalStorage getElementsByTagName(EndDate)=' + xmlAgain.getElementsByTagName("Round")[2].getAttribute('EndDate'));
+                        /*debug statements */
 
                         break;
                     case "./data/scorecards.xml":
@@ -698,7 +711,7 @@ $(function () {
                 } //switch(filepath)
                 console.log('loadXML:' + filepath);
 
-            });
+            }, 'xml');
 
         }; //app.loadXML = function (filepath) {
 
