@@ -132,7 +132,8 @@ window.onerror = function (msg, url, line) {
     console.log('func oneerror');
 
     if (typeof msg == 'object') {
-        alert('onerror handled an error with message an Object')
+        //alert('onerror handled an error with message an Object')
+        console.log('onerror handled an error with message an Object')
     } else {
         handleAppError(msg, url, line);
     }
