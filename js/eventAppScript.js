@@ -222,33 +222,6 @@ $(function () {
                     }
                 });
 
-                alert('before schedule single 7');
-
-
-                document.addEventListener('deviceready', function () {
-                    alert('device ready');
-
-                    //Schedule of it's android or ios - MNS DEBUG
-                    if (isMobile.Android() || isMobile.iOS()) {
-
-
-                        var now = new Date().getTime(),
-                        _30_sec_from_now = new Date(now + 30 * 1000);
-
-                        //default will trigger message NOW. Must use a unique id for each message.
-
-                        cordova.plugins.notification.local.schedule({
-                            id: 2,
-                            text: '30 secs from now!',
-                            at: _30_sec_from_now,
-                            sound: null,
-                            data: { test: 3 }
-                        });
-                    }
-
-
-                }, false);
-
                 //start the XMLHTTP request to load leaderboards.xml, the event
                 //request.onreadystatechange will handle the parsing when its complete
                 if (app.appPropDoc("LBXMLDoc") == undefined) {
@@ -485,6 +458,26 @@ $(function () {
                 });
 
             });
+
+            $("#btnNotification").on('tap', function () {
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+
+
+                    var now = new Date().getTime(),
+                    _20_sec_from_now = new Date(now + 20 * 1000);
+
+                    //default will trigger message NOW. Must use a unique id for each message.
+
+                    cordova.plugins.notification.local.schedule({
+                        id: 2,
+                        text: '20 secs from now!',
+                        at: _20_sec_from_now,
+                        sound: null,
+                        data: { test: 3 }
+                    });
+                }
+            })
 
         }; //app.bindings = function () {
 
