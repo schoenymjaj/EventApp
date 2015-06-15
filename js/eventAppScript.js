@@ -222,7 +222,7 @@ $(function () {
                     }
                 });
 
-                alert('before schedule single 5');
+                alert('before schedule single 6');
 
 
                 document.addEventListener('deviceready', function () {
@@ -230,9 +230,15 @@ $(function () {
 
                     //Schedule of it's android or ios - MNS DEBUG
                     if (isMobile.Android() || isMobile.iOS()) {
+
+
+                        var now = new Date().getTime(),
+                        _30_sec_from_now = new Date(now + 30 * 1000);
+
                         cordova.plugins.notification.local.schedule({
                             id: 1,
-                            text: 'Test Message Bills Win!',
+                            text: '30 secs from now!',
+                            at: _30_sec_from_now,
                             sound: null,
                             data: { test: 1 }
                         });
