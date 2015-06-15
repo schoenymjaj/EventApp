@@ -222,18 +222,24 @@ $(function () {
                     }
                 });
 
-                alert('before schedule single 3');
-                //Schedule of it's android or ios - MNS DEBUG
-                if (isMobile.Android() || isMobile.iOS()) {
-                    cordova.plugins.notification.local.schedule({
-                        id: 1,
-                        text: 'Test Message Bills Win!',
-                        sound: null,
-                        data: { test: id }
-                    });
-                }
+                alert('before schedule single 4');
 
 
+                document.addEventListener('deviceready', function () {
+                    alert('device ready');
+
+                    //Schedule of it's android or ios - MNS DEBUG
+                    if (isMobile.Android() || isMobile.iOS()) {
+                        cordova.plugins.notification.local.schedule({
+                            id: 1,
+                            text: 'Test Message Bills Win!',
+                            sound: null,
+                            data: { test: id }
+                        });
+                    }
+
+
+                }, false);
 
                 //start the XMLHTTP request to load leaderboards.xml, the event
                 //request.onreadystatechange will handle the parsing when its complete
@@ -263,6 +269,7 @@ $(function () {
                 }
 
             });
+
 
             /*
             pageinit on settings page - renders settings page with jqm widgets
