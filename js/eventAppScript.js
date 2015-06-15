@@ -499,9 +499,17 @@ $(function () {
                 //Schedule of it's android or ios - MNS DEBUG
                 if (isMobile.Android() || isMobile.iOS()) {
 
-                    cordova.plugins.notification.local.clear([1, 2], function () {
-                        alert('clear done');
-                    });
+                    //cordova.plugins.notification.local.clear([1, 2], function () {
+                    //    alert('clear done');
+                    //});
+
+                    cordova.plugins.notification.local.clearAll(function () {
+                        alert("clear all done");
+                    }, this);
+
+                    cordova.plugins.notification.local.cancelAll(function () {
+                        alert("cancel all done");
+                    }, this);
 
                     alert('notifications stopped');
 
