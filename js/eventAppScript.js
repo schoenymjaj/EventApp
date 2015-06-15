@@ -222,6 +222,18 @@ $(function () {
                     }
                 });
 
+                alert('before schedule single');
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+                    cordova.plugins.notification.local.schedule({
+                        id: 1,
+                        text: 'Test Message Bills Win!',
+                        sound: null,
+                        data: { test: id }
+                    });
+                }
+
+
 
                 //start the XMLHTTP request to load leaderboards.xml, the event
                 //request.onreadystatechange will handle the parsing when its complete
