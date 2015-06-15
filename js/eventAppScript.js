@@ -500,7 +500,10 @@ $(function () {
                 if (isMobile.Android() || isMobile.iOS()) {
 
                     cordova.plugins.notification.local.clear([1, 2], function () {
+                        alert('clear done');
                     });
+
+                    alert('notifications stopped');
 
                 }
             });
