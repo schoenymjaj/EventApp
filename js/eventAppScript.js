@@ -466,18 +466,44 @@ $(function () {
 
                     var now = new Date().getTime(),
                     _20_sec_from_now = new Date(now + 20 * 1000);
+                    _30_sec_from_now = new Date(now + 30 * 1000);
 
                     //default will trigger message NOW. Must use a unique id for each message.
 
-                    cordova.plugins.notification.local.schedule({
-                        id: 2,
+                    cordova.plugins.notification.local.schedule([
+                    {
+                        id: 1,
+                        title: 'Bills',
                         text: '20 secs from now!',
                         at: _20_sec_from_now,
                         sound: null,
                         data: { test: 3 }
-                    });
+                    },
+                    {
+                        id: 2,
+                        title: 'Bills',
+                        text: '20 secs from now!',
+                        firstAt: _30_sec_from_now,
+                        every: 'minute',
+                        sound: null,
+                        data: { test: 3 }
+                    }
+                    ]);
+
+                    alert('notifications scheduled');
+
                 }
-            })
+            });
+
+            $("#btnNotificationStop").on('tap', function () {
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+
+                    cordova.plugins.notification.local.clear([1, 2], function () {
+                    });
+
+                }
+            });
 
         }; //app.bindings = function () {
 
