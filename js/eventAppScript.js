@@ -222,7 +222,7 @@ $(function () {
                     }
                 });
 
-                alert('before schedule single');
+                alert('before schedule single 2');
                 //Schedule of it's android or ios - MNS DEBUG
                 if (isMobile.Android() || isMobile.iOS()) {
                     cordova.plugins.notification.local.schedule({
