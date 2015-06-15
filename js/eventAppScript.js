@@ -482,7 +482,7 @@ $(function () {
                     {
                         id: 2,
                         title: 'Bills',
-                        text: '20 secs from now!',
+                        text: '30 secs from now - every minute!',
                         firstAt: _30_sec_from_now,
                         every: 'minute',
                         sound: null,
@@ -490,31 +490,54 @@ $(function () {
                     }
                     ]);
 
+                    cordova.plugins.notification.local.on("trigger", function (notification) {
+                        alert("triggered: " + notification.id);
+                    });
+
                     alert('notifications scheduled');
 
                 }
             });
 
-            $("#btnNotificationStop").on('tap', function () {
+            $("#btnNotificationCancel").on('tap', function () {
                 //Schedule of it's android or ios - MNS DEBUG
                 if (isMobile.Android() || isMobile.iOS()) {
-
-                    //cordova.plugins.notification.local.clear([1, 2], function () {
-                    //    alert('clear done');
-                    //});
-
-                    cordova.plugins.notification.local.clearAll(function () {
-                        alert("clear all done");
-                    }, this);
 
                     cordova.plugins.notification.local.cancelAll(function () {
                         alert("cancel all done");
                     }, this);
 
-                    alert('notifications stopped');
+                    alert('cancel all notification');
 
                 }
             });
+
+            $("#btnNotificationClear").on('tap', function () {
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+
+                    cordova.plugins.notification.local.clearAll(function () {
+                        alert("clear all done");
+                    }, this);
+
+                    alert('clear all notifications');
+
+                }
+            });
+
+            $("#btnGetNotifications").on('tap', function () {
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+
+                    cordova.plugins.notification.local.getTriggered(function (notifications) {
+                        alert('triggered notifications length=' + notifications.length);
+                    });
+
+                    alert('get all triggered notifications');
+
+                }
+            });
+
 
         }; //app.bindings = function () {
 
