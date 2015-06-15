@@ -222,7 +222,7 @@ $(function () {
                     }
                 });
 
-                alert('before schedule single 4');
+                alert('before schedule single 5');
 
 
                 document.addEventListener('deviceready', function () {
@@ -234,7 +234,7 @@ $(function () {
                             id: 1,
                             text: 'Test Message Bills Win!',
                             sound: null,
-                            data: { test: id }
+                            data: { test: 1 }
                         });
                     }
 
