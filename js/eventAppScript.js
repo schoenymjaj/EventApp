@@ -494,6 +494,10 @@ $(function () {
                         alert("triggered: " + notification.id);
                     });
 
+                    cordova.plugins.notification.local.on("click", function (notification) {
+                        alert("notification clicked on: " + notification.id);
+                    });
+
                     alert('notifications scheduled');
 
                 }
@@ -525,7 +529,7 @@ $(function () {
                 }
             });
 
-            $("#btnGetNotifications").on('tap', function () {
+            $("#btnGetTriggerNotifications").on('tap', function () {
                 //Schedule of it's android or ios - MNS DEBUG
                 if (isMobile.Android() || isMobile.iOS()) {
 
@@ -534,6 +538,19 @@ $(function () {
                     });
 
                     alert('get all triggered notifications');
+
+                }
+            });
+
+            $("#btnScheduledNotifications").on('tap', function () {
+                //Schedule of it's android or ios - MNS DEBUG
+                if (isMobile.Android() || isMobile.iOS()) {
+
+                    cordova.plugins.notification.local.getScheduled(function (notifications) {
+                        alert('scheduled notifications length=' + notifications.length);
+                    });
+
+                    alert('get all scheduled notifications');
 
                 }
             });
