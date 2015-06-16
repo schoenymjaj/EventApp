@@ -535,6 +535,10 @@ $(function () {
 
                     cordova.plugins.notification.local.getTriggered(function (notifications) {
                         alert('triggered notifications length=' + notifications.length);
+
+                        if (notifications.length > 0) {
+                            alert('notifications[0].id=' + notifications[0].id);
+                        }
                     });
 
                     alert('get all triggered notifications');
@@ -548,6 +552,11 @@ $(function () {
 
                     cordova.plugins.notification.local.getScheduled(function (notifications) {
                         alert('scheduled notifications length=' + notifications.length);
+
+                        if (notifications.length > 0) {
+                            alert('notifications[0].id=' + notifications[0].id);
+                        }
+
                     });
 
                     alert('get all scheduled notifications');
